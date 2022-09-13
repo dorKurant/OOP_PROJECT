@@ -1,0 +1,1001 @@
+id	content	level	answer	choice_a	choice_b	choice_c	choice_d	formula	hint
+1	Profound transitional solution	5	b	Francolinus coqui	Procyon lotor	Paraxerus cepapi	Martes americana	#ed5c7d	
+2	Monitored leading edge open architecture	1	d	Oxybelis sp.	Libellula quadrimaculata	Coendou prehensilis	Alectura lathami	#ff111d	
+3	Object-based upward-trending internet solution	4	b	Lamprotornis superbus	Acrobates pygmaeus	Pavo cristatus	Ctenophorus ornatus	#de7703	
+4	Distributed local migration	5	b	Tamiasciurus hudsonicus	Pan troglodytes	Sula nebouxii	Gabianus pacificus	#c7e342	
+5	Future-proofed contextually-based secured line	8	c	Chauna torquata	Chauna torquata	Cacatua tenuirostris	Hippotragus niger	#723a57	
+6	Programmable solution-oriented function	4	a	Pavo cristatus	Petaurus norfolcensis	Ovis dalli stonei	Struthio camelus	#18c677	
+7	Proactive empowering superstructure	2	c	Dendrocitta vagabunda	Cervus canadensis	Camelus dromedarius	Otocyon megalotis	#3fccb8	
+8	Business-focused asymmetric hierarchy	5	a	Trichosurus vulpecula	Anas bahamensis	Nannopterum harrisi	Climacteris melanura	#9802e7	
+9	Pre-emptive attitude-oriented model	7	c	Microcebus murinus	Tadorna tadorna	Cacatua tenuirostris	Paraxerus cepapi	#b51f24	
+10	Profit-focused regional benchmark	1	d	Smithopsis crassicaudata	Pelecanus conspicillatus	Dasypus novemcinctus	Aonyx capensis	#525516	
+11	Cross-group radical support	3	b	Anas platyrhynchos	Bucephala clangula	Phalaropus lobatus	Felis caracal	#fa6f88	
+12	Compatible grid-enabled info-mediaries	9	c	Leprocaulinus vipera	Ardea golieth	Felis concolor	Choloepus hoffmani	#956485	
+13	Proactive zero tolerance functionalities	1	b	Balearica pavonina	Propithecus verreauxi	Chelodina longicollis	Heloderma horridum	#fdd13e	
+14	Realigned human-resource software	6	a	Tayassu tajacu	Chlidonias leucopterus	Eubalaena australis	Mustela nigripes	#58ca26	
+15	Decentralized stable standardization	9	b	Sarkidornis melanotos	Varanus sp.	Chlamydosaurus kingii	Mazama gouazoubira	#92c53f	
+16	Down-sized secondary support	9	b	Anitibyx armatus	Colaptes campestroides	Corvus brachyrhynchos	Chlamydosaurus kingii	#852f6a	
+17	Cross-platform 24/7 complexity	6	c	Bucephala clangula	Chlidonias leucopterus	Deroptyus accipitrinus	Genetta genetta	#e6ebdc	
+18	Advanced reciprocal definition	7	a	Coluber constrictor	Cebus apella	Meleagris gallopavo	Nectarinia chalybea	#61262e	
+19	Secured tertiary challenge	4	b	Phylurus milli	Corythornis cristata	Podargus strigoides	Ceratotherium simum	#75578f	
+20	Switchable 4th generation open architecture	7	c	Dicrostonyx groenlandicus	Haliaeetus leucocephalus	Pteronura brasiliensis	Cracticus nigroagularis	#f14b8e	
+21	Upgradable client-driven Graphic Interface	9	a	Butorides striatus	Bison bison	Gyps bengalensis	unavailable	#dc50ed	
+22	Re-contextualized systematic challenge	2	b	Globicephala melas	Gopherus agassizii	Vulpes vulpes	Dacelo novaeguineae	#d6b731	
+23	Quality-focused mobile throughput	10	d	Alligator mississippiensis	Canis aureus	Ctenophorus ornatus	Cercopithecus aethiops	#f871b4	
+24	Seamless 5th generation intranet	7	b	Bos mutus	Tayassu pecari	Motacilla aguimp	Genetta genetta	#9962b1	
+25	Function-based analyzing budgetary management	8	b	Trachyphonus vaillantii	Canis aureus	Anastomus oscitans	Macropus eugenii	#42edd2	
+26	Adaptive systematic capacity	8	a	Tetracerus quadricornis	Buteo regalis	Cordylus giganteus	Paraxerus cepapi	#d63836	
+27	Fundamental human-resource pricing structure	7	a	Tetracerus quadricornis	Conolophus subcristatus	Dacelo novaeguineae	Aonyx capensis	#6e091a	
+28	Synchronised 3rd generation process improvement	1	c	Nasua nasua	Thalasseus maximus	Ciconia ciconia	Dendrocitta vagabunda	#4bc942	
+29	Devolved transitional budgetary management	3	d	Tayassu tajacu	Caiman crocodilus	Anthropoides paradisea	Diomedea irrorata	#22f79a	
+30	Reduced uniform encoding	6	d	Trichosurus vulpecula	Francolinus coqui	Sarcorhamphus papa	Coluber constrictor	#fca1ef	
+31	Multi-tiered bottom-line orchestration	5	b	Spermophilus parryii	Ovis ammon	Ardea cinerea	Branta canadensis	#943150	
+32	Sharable bottom-line frame	7	c	Semnopithecus entellus	Parus atricapillus	Hippotragus equinus	Naja sp.	#903551	
+33	Realigned object-oriented methodology	9	a	unavailable	Bison bison	Cynictis penicillata	Limosa haemastica	#e7e745	
+34	Universal methodical contingency	8	a	Alcelaphus buselaphus cokii	Otaria flavescens	Semnopithecus entellus	Dasypus novemcinctus	#c899e2	
+35	Proactive executive intranet	9	a	Manouria emys	unavailable	Callipepla gambelii	Merops nubicus	#4a30cd	
+36	Optional asymmetric moderator	6	d	Choloepus hoffmani	Suricata suricatta	Platalea leucordia	Agelaius phoeniceus	#8614a9	
+37	Distributed demand-driven budgetary management	5	c	Macaca mulatta	Leptoptilus dubius	Coracias caudata	Thamnolaea cinnmomeiventris	#186bbe	
+38	Vision-oriented optimizing process improvement	6	a	Tockus erythrorhyncus	Spheniscus mendiculus	Phalacrocorax varius	Diomedea irrorata	#2cad3a	
+39	Public-key executive initiative	4	b	Uraeginthus bengalus	Dolichitus patagonum	Neotoma sp.	Actophilornis africanus	#926917	
+40	Enhanced object-oriented installation	9	c	Mustela nigripes	Phoenicopterus ruber	Buteo regalis	Dicrostonyx groenlandicus	#7071a0	
+41	Future-proofed regional encoding	7	d	Felis libyca	Graspus graspus	Sciurus niger	Oryx gazella	#884d41	
+42	Pre-emptive high-level solution	3	d	Perameles nasuta	Kobus leche robertsi	Pedetes capensis	Canis mesomelas	#b62c3d	
+43	Team-oriented interactive groupware	10	c	Eunectes sp.	Francolinus coqui	Haliaeetus leucoryphus	Limnocorax flavirostra	#db0efa	
+44	Automated local circuit	3	c	Alopochen aegyptiacus	Ara chloroptera	Damaliscus dorcas	Rhea americana	#68c4bd	
+45	Switchable encompassing solution	4	b	Speotyte cuniculata	Cygnus atratus	Panthera pardus	Ceratotherium simum	#bf4a32	
+46	Synergized reciprocal collaboration	1	c	Ninox superciliaris	Bassariscus astutus	Ara macao	Chelodina longicollis	#014fe5	
+47	Organic foreground ability	5	a	Mazama gouazoubira	Trachyphonus vaillantii	Microcebus murinus	Sciurus niger	#6a80fd	
+48	Triple-buffered national hierarchy	7	d	Acrantophis madagascariensis	Estrilda erythronotos	Ammospermophilus nelsoni	Threskionis aethiopicus	#c23b1c	
+49	Managed fresh-thinking database	10	d	unavailable	Kobus defassa	Cacatua tenuirostris	Lamprotornis superbus	#26bb2e	
+50	Reverse-engineered 5th generation local area network	3	b	Panthera tigris	Pytilia melba	Phoeniconaias minor	Plectopterus gambensis	#fb9f73	
+51	Cloned content-based leverage	6	a	Macaca mulatta	Spermophilus tridecemlineatus	Meles meles	Choriotis kori	#c03cb6	
+52	Expanded interactive attitude	10	d	Colobus guerza	Tamiasciurus hudsonicus	Macropus rufus	Phalacrocorax carbo	#e7baf4	
+53	Decentralized contextually-based time-frame	4	c	Tragelaphus strepsiceros	Bubo virginianus	Cervus duvauceli	Seiurus aurocapillus	#1472be	
+54	Secured needs-based moratorium	2	d	Bubalornis niger	Corvus albus	Macropus rufogriseus	Morelia spilotes variegata	#717e3f	
+55	Reactive upward-trending core	7	c	Uraeginthus angolensis	Myrmecophaga tridactyla	Calyptorhynchus magnificus	Rhea americana	#856d1e	
+56	Cross-platform user-facing array	2	b	Nyctanassa violacea	Coendou prehensilis	Dicrostonyx groenlandicus	Tamiasciurus hudsonicus	#baaf4b	
+57	Mandatory mobile paradigm	1	d	Panthera tigris	Speothos vanaticus	unavailable	Isoodon obesulus	#2220eb	
+58	Profound even-keeled Graphical User Interface	9	b	Haematopus ater	Bugeranus caruncalatus	Plegadis falcinellus	Rhea americana	#88638c	
+59	Triple-buffered intangible definition	8	b	Delphinus delphis	Dasypus novemcinctus	Butorides striatus	Psittacula krameri	#26960b	
+60	Programmable contextually-based concept	5	a	Manouria emys	Kobus defassa	Lamprotornis nitens	Phalacrocorax albiventer	#95e237	
+61	Ameliorated incremental time-frame	7	a	Connochaetus taurinus	Platalea leucordia	Aepyceros mylampus	Crotalus adamanteus	#668212	
+62	User-centric optimal infrastructure	1	a	Laniaurius atrococcineus	Cervus elaphus	Trichoglossus haematodus moluccanus	Bettongia penicillata	#2a480a	
+63	Enterprise-wide optimal paradigm	7	a	Coluber constrictor	Tockus erythrorhyncus	Trichosurus vulpecula	Picoides pubescens	#5479a5	
+64	Enterprise-wide maximized hub	2	a	Colaptes campestroides	Mungos mungo	Ratufa indica	Smithopsis crassicaudata	#6fdf95	
+65	Decentralized national hierarchy	7	c	Zenaida asiatica	Pseudalopex gymnocercus	Anthropoides paradisea	Aegypius tracheliotus	#56f083	
+66	Synergistic leading edge workforce	8	b	Ciconia episcopus	Anthropoides paradisea	Buteo galapagoensis	Varanus komodensis	#503c2a	
+67	Assimilated cohesive knowledge user	10	c	Columba livia	Oryx gazella callotis	Junonia genoveua	Francolinus coqui	#02fca5	
+68	Vision-oriented impactful help-desk	9	d	Colobus guerza	Haliaeetus leucocephalus	Macropus agilis	Isoodon obesulus	#c81888	
+69	Assimilated methodical moderator	3	a	Cervus canadensis	Papilio canadensis	Phascogale calura	Ceryle rudis	#e40ad9	
+70	Optional discrete internet solution	4	b	Felis pardalis	Gazella granti	Ovibos moschatus	Orcinus orca	#16bcdc	
+71	Synergized client-server utilisation	8	c	Anas bahamensis	Coluber constrictor	Macropus eugenii	Spheniscus mendiculus	#2f48c2	
+72	Face to face bandwidth-monitored portal	6	a	Phacochoerus aethiopus	Bos frontalis	Cathartes aura	Cynomys ludovicianus	#90922d	
+73	Exclusive intangible success	10	c	Threskionis aethiopicus	Paroaria gularis	Papilio canadensis	Felis rufus	#1cf826	
+74	Profit-focused cohesive solution	8	d	Tamandua tetradactyla	Macaca mulatta	Trichoglossus haematodus moluccanus	Mabuya spilogaster	#4701f4	
+75	Object-based intermediate collaboration	8	b	Carduelis uropygialis	Ratufa indica	Mustela nigripes	Francolinus leucoscepus	#f04b88	
+76	Self-enabling secondary focus group	3	c	Egretta thula	Myrmecobius fasciatus	Felis caracal	Varanus salvator	#c2a54a	
+77	Future-proofed holistic middleware	1	d	Laniarius ferrugineus	Diomedea irrorata	Thalasseus maximus	Dusicyon thous	#144604	
+78	Cross-group human-resource leverage	8	d	Naja nivea	Francolinus coqui	Hystrix indica	Sarcophilus harrisii	#a2c355	
+79	Customizable bottom-line structure	3	d	Haematopus ater	Coluber constrictor foxii	Geochelone elegans	Larus dominicanus	#ace9f4	
+80	Public-key exuding approach	2	b	Alcelaphus buselaphus cokii	unavailable	Gyps bengalensis	Larus fuliginosus	#8fa969	
+81	Realigned didactic process improvement	8	d	Chloephaga melanoptera	Sauromalus obesus	Echimys chrysurus	Cebus albifrons	#6a9206	
+82	Self-enabling incremental moderator	2	d	Pycnonotus nigricans	Nyctea scandiaca	Hymenolaimus malacorhynchus	Limnocorax flavirostra	#18a13d	
+83	Organic empowering open system	1	a	Oncorhynchus nerka	Spizaetus coronatus	Isoodon obesulus	Anastomus oscitans	#2065f3	
+84	Fully-configurable neutral projection	6	d	Acridotheres tristis	Haliaeetus leucoryphus	Hyaena brunnea	Aonyx capensis	#a5f738	
+85	Focused static firmware	2	b	Colobus guerza	Phascogale calura	Varanus sp.	Zosterops pallidus	#c65af7	
+86	Public-key mobile synergy	3	b	Lama pacos	Eudyptula minor	Vanellus sp.	Ovis dalli stonei	#b418e0	
+87	Operative bi-directional projection	6	d	Bugeranus caruncalatus	Cyrtodactylus louisiadensis	Rhea americana	Crotalus cerastes	#69ab7f	
+88	Organized multimedia initiative	3	a	Coluber constrictor foxii	Podargus strigoides	Sylvicapra grimma	Numida meleagris	#ac298a	
+89	Decentralized dedicated contingency	10	a	Sula dactylatra	Mycteria ibis	Martes pennanti	Gabianus pacificus	#e4d8a1	
+90	Exclusive 24/7 framework	5	b	Phalacrocorax niger	Cordylus giganteus	Streptopelia senegalensis	Dipodomys deserti	#6a624d	
+91	Automated content-based neural-net	3	c	Dasypus novemcinctus	Ninox superciliaris	Oncorhynchus nerka	Platalea leucordia	#09a4d3	
+92	Reverse-engineered bandwidth-monitored adapter	10	a	Felis serval	Pitangus sulphuratus	Stercorarius longicausus	Tamandua tetradactyla	#427649	
+93	Cloned systemic matrix	3	c	Ardea cinerea	Phoca vitulina	Connochaetus taurinus	Larus fuliginosus	#f682f4	
+94	Integrated stable application	8	d	Alcelaphus buselaphus cokii	Diomedea irrorata	Varanus salvator	Psophia viridis	#daa839	
+95	Profound composite process improvement	7	b	Pycnonotus nigricans	Lutra canadensis	Paraxerus cepapi	Ciconia ciconia	#e0844d	
+96	Open-source 4th generation task-force	3	a	Phoca vitulina	Columba palumbus	Cyrtodactylus louisiadensis	Buteo jamaicensis	#3d36af	
+97	Multi-tiered composite success	4	a	Geochelone elegans	Tetracerus quadricornis	Dasyurus viverrinus	Pelecanus occidentalis	#5bb004	
+98	Cloned responsive data-warehouse	3	b	Terrapene carolina	Anastomus oscitans	Cyrtodactylus louisiadensis	Anitibyx armatus	#9ac0e5	
+99	Networked directional installation	10	a	Alligator mississippiensis	Carduelis pinus	Plectopterus gambensis	Geochelone radiata	#ddacb6	
+100	Focused next generation functionalities	1	c	Larus fuliginosus	Castor canadensis	Colaptes campestroides	Motacilla aguimp	#45ce38	
+101	Seamless national instruction set	3	a	Chelodina longicollis	Perameles nasuta	Butorides striatus	Vicugna vicugna	#0b9d16	
+102	Progressive empowering emulation	5	c	Sus scrofa	Lepilemur rufescens	Laniaurius atrococcineus	Genetta genetta	#4aa4b2	
+103	Inverse fault-tolerant knowledge user	5	b	Pelecanus occidentalis	Phasianus colchicus	Sarcorhamphus papa	Dendrocitta vagabunda	#b487fd	
+104	Multi-lateral intermediate functionalities	7	c	Tauraco porphyrelophus	Paradoxurus hermaphroditus	Antechinus flavipes	Alopochen aegyptiacus	#4f3db8	
+105	Realigned contextually-based task-force	2	b	Nannopterum harrisi	Vombatus ursinus	Cebus apella	Paraxerus cepapi	#6c295f	
+106	Up-sized foreground adapter	10	c	Echimys chrysurus	Camelus dromedarius	Lepus arcticus	Thamnolaea cinnmomeiventris	#499d96	
+107	Intuitive tangible monitoring	6	d	Anser caerulescens	Genetta genetta	Macaca nemestrina	unavailable	#07be33	
+108	Extended asynchronous function	4	b	Choloepus hoffmani	Macropus agilis	Lybius torquatus	Herpestes javanicus	#5d2a9f	
+109	Organic web-enabled firmware	10	a	Manouria emys	Panthera pardus	Tenrec ecaudatus	Anser anser	#49eabf	
+110	Reduced foreground extranet	3	c	Erethizon dorsatum	Acrantophis madagascariensis	Gekko gecko	unavailable	#c44cc6	
+111	Reactive leading edge standardization	9	d	Acridotheres tristis	Geochelone elephantopus	Motacilla aguimp	Phaethon aethereus	#42755a	
+112	Customizable heuristic utilisation	7	d	Dicrostonyx groenlandicus	Eolophus roseicapillus	Ramphastos tucanus	Ovis canadensis	#c3e453	
+113	Operative client-server implementation	7	a	Cygnus atratus	Mycteria ibis	Chauna torquata	Mephitis mephitis	#d4fa3a	
+114	Networked foreground circuit	8	c	Cacatua galerita	Plocepasser mahali	Alouatta seniculus	Colaptes campestroides	#1bd07f	
+115	Optimized intangible ability	1	d	Eudromia elegans	unavailable	Ploceus intermedius	Macaca fuscata	#38e03b	
+116	Reactive bottom-line secured line	4	c	unavailable	Ara chloroptera	Zosterops pallidus	Coendou prehensilis	#112f54	
+117	Profound multi-tasking functionalities	8	a	unavailable	Bubalornis niger	Catharacta skua	Kobus defassa	#5eadd2	
+118	Reduced uniform implementation	4	a	Damaliscus dorcas	Elephas maximus bengalensis	Ratufa indica	Sarkidornis melanotos	#30f6d3	
+119	Up-sized heuristic frame	9	a	unavailable	Aegypius tracheliotus	Canis latrans	Geochelone radiata	#a1c460	
+120	Centralized high-level secured line	4	c	Cabassous sp.	Chauna torquata	Hymenolaimus malacorhynchus	Petaurus breviceps	#e08433	
+121	User-centric discrete framework	3	d	Ciconia episcopus	Lepus arcticus	Ceratotherium simum	Plegadis ridgwayi	#02d0cf	
+122	Future-proofed non-volatile budgetary management	8	a	Anhinga rufa	Ciconia ciconia	Isoodon obesulus	Galictis vittata	#ee1078	
+123	Diverse next generation workforce	10	a	Felis pardalis	Sciurus niger	Junonia genoveua	Leptoptilus dubius	#31a540	
+124	Diverse needs-based algorithm	5	a	Tamiasciurus hudsonicus	Ephippiorhynchus mycteria	Streptopelia decipiens	Uraeginthus granatina	#272527	
+125	Persevering needs-based interface	3	b	Crotalus adamanteus	Butorides striatus	Echimys chrysurus	Loxodonta africana	#38a44f	
+126	Realigned logistical workforce	7	c	Cacatua galerita	Callipepla gambelii	Eumetopias jubatus	unavailable	#1f2cdc	
+127	User-centric well-modulated functionalities	6	b	Mazama gouazoubira	Antechinus flavipes	Branta canadensis	Zenaida asiatica	#7419b1	
+128	Decentralized incremental implementation	4	d	Ceratotherium simum	Agama sp.	Ceryle rudis	Limnocorax flavirostra	#1b4052	
+129	Right-sized reciprocal adapter	8	b	Sarkidornis melanotos	Merops nubicus	Numida meleagris	Lorythaixoides concolor	#b41c5a	
+130	Horizontal 24 hour productivity	9	d	Paroaria gularis	Papio cynocephalus	Felis wiedi or Leopardus weidi	Galictis vittata	#7e08d7	
+131	Innovative intangible analyzer	4	d	Hystrix cristata	Alopex lagopus	Podargus strigoides	Sagittarius serpentarius	#752b70	
+132	Robust fresh-thinking forecast	1	b	Balearica pavonina	Bucephala clangula	Gazella granti	Falco mexicanus	#84620e	
+133	Cross-platform fresh-thinking frame	1	d	Epicrates cenchria maurus	Columba livia	Coendou prehensilis	Canis aureus	#2cec48	
+134	Persevering eco-centric standardization	3	c	Otaria flavescens	Ardea cinerea	Lamprotornis superbus	Cebus nigrivittatus	#66758a	
+135	User-friendly intermediate benchmark	10	c	Funambulus pennati	Cacatua tenuirostris	Uraeginthus granatina	Alces alces	#b9f775	
+136	Realigned coherent hardware	5	d	Grus canadensis	Tamiasciurus hudsonicus	Proteles cristatus	Callorhinus ursinus	#0adff4	
+137	Visionary optimizing emulation	7	d	Thalasseus maximus	Hyaena brunnea	Phascogale calura	Acridotheres tristis	#935eae	
+138	Profit-focused tertiary alliance	1	b	Tringa glareola	Zonotrichia capensis	Redunca redunca	Tamandua tetradactyla	#a241ab	
+139	Virtual responsive data-warehouse	9	a	Aonyx capensis	Carphophis sp.	Equus burchelli	Boa constrictor mexicana	#9c0f47	
+140	Inverse multi-state moratorium	5	b	Lutra canadensis	Pelecans onocratalus	Panthera leo persica	Macropus robustus	#8e85c8	
+141	Profit-focused mobile matrices	9	a	Actophilornis africanus	Climacteris melanura	Trichechus inunguis	Spermophilus tridecemlineatus	#565e2d	
+142	Sharable 4th generation middleware	10	b	Morelia spilotes variegata	Myrmecophaga tridactyla	Sula dactylatra	Eudyptula minor	#da6d78	
+143	Organic real-time pricing structure	1	c	Ara ararauna	Naja haje	Equus hemionus	Anhinga rufa	#a8efb6	
+144	Profit-focused optimal capability	1	a	Canis aureus	Tamiasciurus hudsonicus	Vulpes vulpes	Galago crassicaudataus	#75c235	
+145	Visionary mission-critical functionalities	9	b	Ratufa indica	Spermophilus tridecemlineatus	Trachyphonus vaillantii	Geococcyx californianus	#3ab095	
+146	Customizable 5th generation core	5	b	Egretta thula	Canis aureus	Chelodina longicollis	Pelecanus occidentalis	#c55d7c	
+147	Team-oriented composite product	3	c	Varanus salvator	Smithopsis crassicaudata	Acinynox jubatus	Felis serval	#311278	
+148	Multi-tiered system-worthy instruction set	9	c	Canis lupus baileyi	Rhea americana	Phalaropus fulicarius	Picoides pubescens	#cd62e1	
+149	Streamlined eco-centric definition	5	b	Tadorna tadorna	Varanus sp.	Trachyphonus vaillantii	Macropus eugenii	#ef1fe3	
+150	De-engineered solution-oriented collaboration	4	c	Streptopelia senegalensis	Sylvilagus floridanus	Uraeginthus granatina	Manouria emys	#186cd2	
+151	Customer-focused holistic encoding	10	d	Ovis canadensis	Lycaon pictus	Diomedea irrorata	Orcinus orca	#337b34	
+152	Optional object-oriented analyzer	9	d	Damaliscus lunatus	Hymenolaimus malacorhynchus	Alligator mississippiensis	Ctenophorus ornatus	#335f07	
+153	Monitored 24/7 adapter	2	b	Chlidonias leucopterus	Bettongia penicillata	Ceratotherium simum	Francolinus swainsonii	#32c238	
+154	Advanced multimedia orchestration	6	c	Damaliscus lunatus	Bubalus arnee	Colaptes campestroides	Uraeginthus angolensis	#3bd566	
+155	Versatile grid-enabled database	2	b	Gerbillus sp.	Speotyte cuniculata	Casmerodius albus	Anhinga rufa	#b23efe	
+156	Quality-focused asymmetric hardware	1	d	Rana sp.	Lemur fulvus	Phalacrocorax brasilianus	Cervus canadensis	#77143e	
+157	Sharable cohesive interface	2	c	Cygnus atratus	Columba palumbus	Bassariscus astutus	Ictalurus furcatus	#50b549	
+158	Re-engineered explicit system engine	6	a	Macropus rufogriseus	Streptopelia senegalensis	Phascogale tapoatafa	Manouria emys	#beeed2	
+159	Multi-channelled national challenge	3	a	Cynictis penicillata	Galago crassicaudataus	Carduelis pinus	Dasypus septemcincus	#c8c7de	
+160	Optional human-resource functionalities	10	a	Ovis canadensis	Zalophus californicus	Motacilla aguimp	Platalea leucordia	#a51055	
+161	Total fresh-thinking hub	9	a	Hyaena hyaena	Varanus salvator	Bucephala clangula	Kobus defassa	#143666	
+162	Networked analyzing data-warehouse	8	c	Grus antigone	Numida meleagris	Vulpes cinereoargenteus	Cordylus giganteus	#879afa	
+163	Face to face 24 hour portal	7	d	Pseudocheirus peregrinus	Phascogale calura	Gymnorhina tibicen	Hyaena hyaena	#76aca3	
+164	Grass-roots disintermediate adapter	2	c	Crotaphytus collaris	Crotalus adamanteus	Alectura lathami	Merops sp.	#f4dac5	
+165	Synergized local intranet	6	a	Didelphis virginiana	Lemur catta	Tayassu tajacu	Loxodonta africana	#915b4a	
+166	Innovative optimal array	9	c	Charadrius tricollaris	Vanellus chilensis	Odocoileus hemionus	Tetracerus quadricornis	#efa9b4	
+167	Digitized 4th generation collaboration	6	b	Gyps bengalensis	Delphinus delphis	Herpestes javanicus	Phaethon aethereus	#706d3b	
+168	Secured interactive leverage	10	c	Bison bison	Erethizon dorsatum	Corvus albicollis	Capreolus capreolus	#08616e	
+169	Pre-emptive optimal knowledge base	10	a	Lasiodora parahybana	Himantopus himantopus	Alectura lathami	Junonia genoveua	#9be20e	
+170	Face to face heuristic service-desk	5	c	Myiarchus tuberculifer	Leptoptilus dubius	Phalaropus lobatus	Anthropoides paradisea	#b6f0c0	
+171	Phased 3rd generation orchestration	7	b	Mazama gouazoubira	Corvus brachyrhynchos	Epicrates cenchria maurus	Cygnus atratus	#96d49d	
+172	Synergistic incremental architecture	10	b	Ara macao	Megaderma spasma	Oryx gazella	Phalacrocorax niger	#5d427d	
+173	Switchable dedicated intranet	3	c	Tyto novaehollandiae	Nasua narica	Sula nebouxii	Cordylus giganteus	#ee12b3	
+174	Polarised intangible success	4	d	Aonyx cinerea	Microcebus murinus	Turtur chalcospilos	Zenaida galapagoensis	#a9b275	
+175	Customer-focused exuding hierarchy	10	a	Phoenicopterus ruber	Dasyurus viverrinus	Chlamydosaurus kingii	Corythornis cristata	#47e058	
+176	Multi-channelled disintermediate workforce	6	c	Lorythaixoides concolor	Uraeginthus granatina	Lycaon pictus	Mazama americana	#13e376	
+177	Seamless discrete secured line	6	a	Acridotheres tristis	Larus dominicanus	Castor fiber	Francolinus leucoscepus	#ec31de	
+178	Pre-emptive maximized policy	2	b	Bucephala clangula	Dicrurus adsimilis	Chlidonias leucopterus	Sula dactylatra	#5cfdf9	
+179	Fundamental zero defect access	6	a	Nyctanassa violacea	Grus canadensis	Myotis lucifugus	Platalea leucordia	#0225da	
+180	Down-sized analyzing standardization	1	a	Panthera leo	Phalaropus lobatus	Anastomus oscitans	Anathana ellioti	#22063d	
+181	Assimilated global task-force	10	a	Phoeniconaias minor	Theropithecus gelada	Mirounga angustirostris	Phalaropus lobatus	#98d1e1	
+182	Re-engineered asynchronous standardization	7	c	Ovis dalli stonei	Uraeginthus granatina	Grus rubicundus	Dipodomys deserti	#dfd1b9	
+183	Switchable well-modulated encoding	6	d	Cebus albifrons	Milvus migrans	Ardea cinerea	Lycosa godeffroyi	#41dfcf	
+184	Visionary 3rd generation initiative	1	b	Pycnonotus nigricans	Ara ararauna	Picoides pubescens	Lutra canadensis	#2537c1	
+185	Object-based 5th generation forecast	6	c	Dusicyon thous	Theropithecus gelada	Dusicyon thous	Limosa haemastica	#a4fd16	
+186	Open-source non-volatile encoding	8	c	Thylogale stigmatica	Martes americana	Tadorna tadorna	Lasiodora parahybana	#df59fe	
+187	Distributed full-range methodology	5	a	Coluber constrictor	Geochelone elephantopus	Coendou prehensilis	Spheniscus magellanicus	#bcef24	
+188	Multi-tiered cohesive benchmark	9	c	Taurotagus oryx	Actophilornis africanus	Vulpes chama	Lamprotornis chalybaeus	#0c6aa5	
+189	Optional disintermediate toolset	7	a	Myiarchus tuberculifer	Cynictis penicillata	Epicrates cenchria maurus	Ratufa indica	#f388df	
+190	Horizontal asymmetric paradigm	7	d	Tockus erythrorhyncus	Cebus nigrivittatus	Zenaida galapagoensis	Pseudalopex gymnocercus	#8f32ae	
+191	Reduced 5th generation architecture	5	c	Callorhinus ursinus	Oreotragus oreotragus	Hymenolaimus malacorhynchus	Felis libyca	#39ac44	
+192	Quality-focused encompassing model	4	c	Cebus nigrivittatus	Aonyx cinerea	Varanus sp.	Martes americana	#861c90	
+193	Profit-focused encompassing matrix	2	c	Rhea americana	Phalacrocorax niger	Uraeginthus granatina	Amphibolurus barbatus	#1dc4ea	
+194	Synchronised optimizing algorithm	10	c	Papio cynocephalus	Coluber constrictor	Neophron percnopterus	Petaurus norfolcensis	#3a9b56	
+195	Extended client-driven policy	10	d	Ardea cinerea	Lycosa godeffroyi	Mirounga leonina	Callipepla gambelii	#aca7ab	
+196	Compatible upward-trending structure	7	a	Aegypius tracheliotus	Nucifraga columbiana	Uraeginthus granatina	Certotrichas paena	#18c6b0	
+197	Front-line intangible website	9	a	Helogale undulata	Cervus canadensis	Genetta genetta	Macaca fuscata	#3acb12	
+198	Versatile coherent benchmark	1	b	Chlamydosaurus kingii	Laniarius ferrugineus	Dolichitus patagonum	Ephippiorhynchus mycteria	#b25be1	
+199	Monitored bottom-line local area network	10	d	Caiman crocodilus	Sarcorhamphus papa	Phalacrocorax niger	Damaliscus dorcas	#8b0d2f	
+200	Front-line client-driven alliance	8	d	Philetairus socius	Pteronura brasiliensis	Butorides striatus	Pycnonotus barbatus	#c8c90e	
+201	Switchable 24/7 pricing structure	10	d	Naja haje	Oxybelis fulgidus	Aonyx cinerea	Varanus salvator	#5150e9	
+202	Focused responsive local area network	7	d	Macropus rufus	Laniaurius atrococcineus	Phoenicopterus ruber	Lama glama	#825515	
+203	Reactive mobile pricing structure	4	a	Crocodylus niloticus	Tursiops truncatus	Boa constrictor mexicana	Cebus apella	#dedff3	
+204	Upgradable cohesive model	10	c	Trichoglossus haematodus moluccanus	Otaria flavescens	Paraxerus cepapi	Anas bahamensis	#ced915	
+205	Streamlined analyzing budgetary management	10	c	Bos taurus	Macropus robustus	Larus fuliginosus	Turtur chalcospilos	#6299b2	
+206	Synergistic homogeneous open architecture	6	c	Chelodina longicollis	Sagittarius serpentarius	Thalasseus maximus	Pandon haliaetus	#200a09	
+207	Fully-configurable directional orchestration	4	a	Anitibyx armatus	Theropithecus gelada	Butorides striatus	Pelecanus occidentalis	#5b4d67	
+208	Face to face object-oriented time-frame	6	b	Nyctanassa violacea	Sus scrofa	Aonyx capensis	Spermophilus lateralis	#97a6b4	
+209	Balanced zero defect workforce	10	c	Odocoileus hemionus	Capreolus capreolus	Papio cynocephalus	Spizaetus coronatus	#237c23	
+210	Synchronised system-worthy intranet	8	b	Macropus rufus	Spermophilus richardsonii	Anser caerulescens	Hystrix indica	#c930e0	
+211	Networked zero administration frame	2	c	Crotalus adamanteus	Speothos vanaticus	Thylogale stigmatica	Anser anser	#14c31b	
+212	Synchronised 4th generation pricing structure	2	d	unavailable	Paradoxurus hermaphroditus	Sula nebouxii	Semnopithecus entellus	#30b48f	
+213	Upgradable composite data-warehouse	5	c	Macaca mulatta	Madoqua kirkii	Connochaetus taurinus	Procyon lotor	#ab906a	
+214	Cross-platform hybrid product	9	a	Heloderma horridum	Echimys chrysurus	Macaca mulatta	Chauna torquata	#9270b8	
+215	Vision-oriented discrete secured line	2	b	Giraffe camelopardalis	Procyon lotor	Loxodonta africana	Myotis lucifugus	#8faccc	
+216	Triple-buffered regional help-desk	3	b	Grus canadensis	Larus dominicanus	Otocyon megalotis	Cygnus atratus	#b11b2a	
+217	Stand-alone impactful core	7	a	Carphophis sp.	Eumetopias jubatus	Geospiza sp.	Larus novaehollandiae	#cc5af3	
+218	Compatible background software	3	a	Canis aureus	Cynictis penicillata	Rhea americana	Ara ararauna	#fd968c	
+219	Team-oriented value-added circuit	8	c	Stercorarius longicausus	Macaca mulatta	Geochelone elegans	Phoenicopterus ruber	#c6fede	
+220	Extended composite conglomeration	4	a	Mellivora capensis	Redunca redunca	Hymenolaimus malacorhynchus	Porphyrio porphyrio	#3bfc1e	
+221	Enterprise-wide systematic solution	5	b	Numida meleagris	Lamprotornis sp.	Castor fiber	unavailable	#f89dec	
+222	Organized directional leverage	1	b	unavailable	Phalacrocorax varius	Bos taurus	Potamochoerus porcus	#c2165d	
+223	Stand-alone upward-trending pricing structure	7	a	Eolophus roseicapillus	Oxybelis fulgidus	Cracticus nigroagularis	Heloderma horridum	#026e27	
+224	Adaptive 24/7 local area network	10	d	Damaliscus dorcas	Varanus salvator	Dendrocygna viduata	Bubo virginianus	#ea3d34	
+225	Customizable foreground portal	7	a	Mazama gouazoubira	Diceros bicornis	Vanellus chilensis	Climacteris melanura	#34ea02	
+226	Compatible intermediate attitude	10	b	Taxidea taxus	Globicephala melas	Gyps bengalensis	Bucorvus leadbeateri	#ec42d7	
+227	Re-engineered reciprocal budgetary management	6	a	Pseudocheirus peregrinus	Bassariscus astutus	Eumetopias jubatus	Colaptes campestroides	#0fc56c	
+228	Visionary heuristic function	1	d	Cervus duvauceli	unavailable	Dicrurus adsimilis	Uraeginthus angolensis	#63a350	
+229	Realigned grid-enabled middleware	6	c	Chlidonias leucopterus	Antidorcas marsupialis	Chelodina longicollis	Leptoptilos crumeniferus	#c2f1e5	
+230	Organic solution-oriented success	2	b	Phacochoerus aethiopus	Terrapene carolina	unavailable	Prionace glauca	#ed3889	
+231	Seamless attitude-oriented secured line	4	b	Vombatus ursinus	Nasua nasua	Chordeiles minor	Paraxerus cepapi	#add061	
+232	Down-sized client-server analyzer	6	c	Terrapene carolina	Cathartes aura	Neotis denhami	Ara ararauna	#ee592e	
+233	Compatible background internet solution	2	c	Pandon haliaetus	Phoenicopterus ruber	Ceratotherium simum	Varanus sp.	#3173b1	
+234	Innovative object-oriented toolset	9	d	Acanthaster planci	Paradoxurus hermaphroditus	Ploceus intermedius	Alouatta seniculus	#5131d9	
+235	Customizable national budgetary management	4	a	Ciconia episcopus	Gorilla gorilla	Phaethon aethereus	Papio ursinus	#24d66b	
+236	Enhanced full-range array	7	d	Boselaphus tragocamelus	Dicrostonyx groenlandicus	Neophron percnopterus	Mycteria ibis	#9a4fce	
+237	Universal clear-thinking conglomeration	2	c	Ara ararauna	Anitibyx armatus	Terrapene carolina	Tachyglossus aculeatus	#9886c7	
+238	Persistent background success	1	c	Pseudocheirus peregrinus	Toxostoma curvirostre	Panthera onca	Drymarchon corias couperi	#8f434c	
+239	Customizable secondary knowledge user	5	b	Chlidonias leucopterus	Canis mesomelas	Varanus komodensis	Papio cynocephalus	#8186af	
+240	Upgradable asymmetric migration	6	b	unavailable	Pituophis melanaleucus	Alligator mississippiensis	Haliaeetus leucoryphus	#648dd3	
+241	Centralized user-facing protocol	10	c	Graspus graspus	Plegadis ridgwayi	Colobus guerza	Geochelone radiata	#f2f7c2	
+242	Reactive maximized benchmark	9	b	Leptoptilos crumeniferus	Carphophis sp.	Turtur chalcospilos	Nyctea scandiaca	#cee086	
+243	Operative non-volatile strategy	8	b	Lama guanicoe	Gopherus agassizii	Trachyphonus vaillantii	Cebus apella	#b22369	
+244	Integrated client-driven collaboration	4	d	Corallus hortulanus cooki	Sitta canadensis	Hippotragus niger	Butorides striatus	#d7fafd	
+245	Ergonomic next generation Graphic Interface	6	a	Bubalornis niger	Tetracerus quadricornis	Antilope cervicapra	Equus burchelli	#c5ea65	
+246	Re-engineered 6th generation local area network	7	d	Tenrec ecaudatus	Haliaeetus leucocephalus	Suricata suricatta	Haliaetus leucogaster	#6b13a9	
+247	Versatile background projection	8	c	Mycteria ibis	Larus dominicanus	Marmota monax	Choloepus hoffmani	#0c72a3	
+248	Down-sized intangible database	10	c	Dicrurus adsimilis	Phascogale calura	Balearica pavonina	Pedetes capensis	#2f4775	
+249	Versatile 24 hour hierarchy	10	c	Aegypius tracheliotus	Acridotheres tristis	Echimys chrysurus	Diomedea irrorata	#e34123	
+250	Switchable radical system engine	7	d	Nycticorax nycticorax	Dusicyon thous	Dasypus septemcincus	Acrobates pygmaeus	#d4b706	
+251	Customer-focused mobile attitude	7	b	Anitibyx armatus	Bassariscus astutus	Amblyrhynchus cristatus	Acrantophis madagascariensis	#0b63d4	
+252	Adaptive maximized forecast	8	d	Alligator mississippiensis	Uraeginthus angolensis	Coendou prehensilis	Cracticus nigroagularis	#da7c35	
+253	Open-architected neutral throughput	8	c	Dasypus septemcincus	Theropithecus gelada	Phoca vitulina	unavailable	#fd0aeb	
+254	Networked bottom-line focus group	10	b	Picoides pubescens	Varanus komodensis	Petaurus norfolcensis	Diomedea irrorata	#6d0ad9	
+255	User-friendly foreground initiative	2	b	Canis aureus	Falco mexicanus	Damaliscus lunatus	Sula dactylatra	#332cd2	
+256	Realigned logistical archive	4	b	Alligator mississippiensis	Junonia genoveua	Estrilda erythronotos	Haliaetus leucogaster	#63c0d4	
+257	Assimilated encompassing hub	10	d	Suricata suricatta	Amphibolurus barbatus	Rana sp.	Dendrocitta vagabunda	#298c36	
+258	Self-enabling stable database	7	b	Phoenicopterus ruber	Kobus vardonii vardoni	Pituophis melanaleucus	Merops bullockoides	#fb8d2f	
+259	Monitored contextually-based concept	1	b	Cyrtodactylus louisiadensis	Larus fuliginosus	Madoqua kirkii	Pycnonotus nigricans	#6d99b9	
+260	Monitored holistic knowledge user	5	d	Tiliqua scincoides	Martes americana	Nyctea scandiaca	Branta canadensis	#efb9e6	
+261	Team-oriented incremental migration	3	b	Zenaida asiatica	Amazona sp.	Laniarius ferrugineus	Felis chaus	#8f6d08	
+262	Mandatory bandwidth-monitored synergy	2	a	Melanerpes erythrocephalus	Motacilla aguimp	Odocoileus hemionus	Bettongia penicillata	#72574f	
+263	Organized background hardware	2	a	Trachyphonus vaillantii	Motacilla aguimp	Macaca fuscata	Damaliscus dorcas	#65687f	
+264	Persevering web-enabled moderator	8	b	unavailable	Tapirus terrestris	Nyctea scandiaca	Canis aureus	#644a6b	
+265	Automated bandwidth-monitored productivity	6	c	Physignathus cocincinus	Ovis dalli stonei	Naja sp.	Acrobates pygmaeus	#2afaf4	
+266	Business-focused tangible functionalities	7	d	Phalacrocorax niger	Choloepus hoffmani	Vanellus sp.	Paraxerus cepapi	#a668e3	
+267	Open-architected demand-driven budgetary management	10	b	Cervus canadensis	Merops bullockoides	Philetairus socius	Francolinus swainsonii	#1d5f36	
+268	Exclusive modular functionalities	5	d	Macropus robustus	Ninox superciliaris	Sylvicapra grimma	Papio ursinus	#c204fd	
+269	Fundamental bi-directional implementation	6	c	Pteropus rufus	Tauraco porphyrelophus	Suricata suricatta	Kobus defassa	#4d6430	
+270	Cross-platform actuating neural-net	9	c	Aegypius tracheliotus	Bison bison	Rangifer tarandus	Columba palumbus	#68bf49	
+271	Cloned composite help-desk	5	b	Prionace glauca	Butorides striatus	Colobus guerza	Epicrates cenchria maurus	#5c6b81	
+272	Universal non-volatile service-desk	6	b	Cyrtodactylus louisiadensis	Cordylus giganteus	Mazama gouazoubira	Ciconia ciconia	#651309	
+273	Public-key exuding contingency	8	a	Spizaetus coronatus	Lamprotornis nitens	Acinynox jubatus	Chlamydosaurus kingii	#94d74f	
+274	Reactive context-sensitive analyzer	7	a	unavailable	Crotalus cerastes	Erethizon dorsatum	Turtur chalcospilos	#8d00c6	
+275	Universal asynchronous task-force	10	c	Herpestes javanicus	Anthropoides paradisea	Aegypius tracheliotus	Aquila chrysaetos	#3dbc2b	
+276	Stand-alone neutral policy	7	d	Eubalaena australis	Felis concolor	Sula nebouxii	Phascogale calura	#df2e05	
+277	Seamless mission-critical migration	3	c	Pteropus rufus	Lycaon pictus	Dasyurus maculatus	Uraeginthus angolensis	#53cb26	
+278	Proactive 4th generation orchestration	7	a	Felis concolor	Aquila chrysaetos	Felis rufus	Streptopelia senegalensis	#222c37	
+279	Profit-focused upward-trending flexibility	2	c	Felis silvestris lybica	Meles meles	Procyon cancrivorus	Macaca mulatta	#506b1c	
+280	Cloned object-oriented service-desk	4	c	Canis lupus baileyi	Myrmecophaga tridactyla	Hyaena brunnea	unavailable	#1a3033	
+281	Ameliorated cohesive focus group	6	b	Genetta genetta	Zalophus californicus	Anathana ellioti	Isoodon obesulus	#1b17cd	
+282	Synergized attitude-oriented adapter	8	c	Tauraco porphyrelophus	Pycnonotus nigricans	Erethizon dorsatum	Chlidonias leucopterus	#43e05e	
+283	Organic solution-oriented superstructure	2	d	Cercatetus concinnus	Odocoileus hemionus	Geococcyx californianus	Macropus rufogriseus	#cb31a5	
+284	Cloned multi-state throughput	5	d	Laniaurius atrococcineus	Haliaetus vocifer	Corvus brachyrhynchos	Tetracerus quadricornis	#fc67f3	
+285	Multi-tiered transitional challenge	9	c	Snycerus caffer	Antilope cervicapra	Chlamydosaurus kingii	Ceratotherium simum	#9e09d5	
+286	De-engineered object-oriented infrastructure	1	a	Choriotis kori	Cebus albifrons	Sceloporus magister	Uraeginthus angolensis	#27ee1c	
+287	Down-sized holistic database	1	c	Psophia viridis	Mephitis mephitis	Theropithecus gelada	Alectura lathami	#63464d	
+288	Quality-focused real-time infrastructure	8	d	Anhinga rufa	Sarcophilus harrisii	Alouatta seniculus	Xerus sp.	#827f31	
+289	Persistent object-oriented adapter	2	c	Cochlearius cochlearius	Merops bullockoides	Irania gutteralis	Fratercula corniculata	#acc799	
+290	Expanded 5th generation paradigm	6	a	Dasyprocta leporina	Phasianus colchicus	Ovibos moschatus	Corvus albus	#805fd9	
+291	Reverse-engineered holistic parallelism	1	c	Vanessa indica	Naja sp.	Geochelone radiata	Phalacrocorax albiventer	#587738	
+292	Networked system-worthy implementation	4	c	Tragelaphus scriptus	Tragelaphus scriptus	Petaurus breviceps	Corvus albicollis	#2e7fab	
+293	Ergonomic asymmetric firmware	10	b	Dicrurus adsimilis	Limnocorax flavirostra	Phalacrocorax niger	unavailable	#ecd9a3	
+294	Progressive encompassing groupware	1	b	Laniaurius atrococcineus	Zosterops pallidus	Sula nebouxii	Eurocephalus anguitimens	#c31f89	
+295	Public-key 3rd generation capacity	3	b	Ardea cinerea	Ctenophorus ornatus	Grus canadensis	Potamochoerus porcus	#424263	
+296	Ergonomic interactive customer loyalty	1	a	Buteo galapagoensis	Speotyte cuniculata	Columba palumbus	Merops sp.	#554359	
+297	Self-enabling heuristic monitoring	6	c	Mazama gouazoubira	Melanerpes erythrocephalus	Haematopus ater	Macaca mulatta	#92ffff	
+298	Public-key object-oriented workforce	5	a	Phascolarctos cinereus	Cygnus atratus	Falco mexicanus	Ara ararauna	#47e349	
+299	Digitized bandwidth-monitored customer loyalty	5	d	Parus atricapillus	Phalaropus fulicarius	Loris tardigratus	Aegypius tracheliotus	#2bdef5	
+300	Profit-focused content-based attitude	2	b	Eutamias minimus	Cervus unicolor	Cervus canadensis	Orcinus orca	#8f133a	
+301	Switchable needs-based support	6	a	Sciurus niger	Oreamnos americanus	Anas punctata	Tamiasciurus hudsonicus	#ac5fed	
+302	Virtual 6th generation alliance	10	d	Paradoxurus hermaphroditus	Numida meleagris	Carduelis uropygialis	Neophoca cinerea	#d1c054	
+303	Focused needs-based functionalities	7	b	Phalaropus lobatus	Cebus nigrivittatus	Larus fuliginosus	Crotalus adamanteus	#387b88	
+304	Cloned global focus group	10	c	Ateles paniscus	Phoca vitulina	Turtur chalcospilos	Uraeginthus granatina	#470a5e	
+305	Enterprise-wide modular projection	8	d	Cacatua tenuirostris	Larus fuliginosus	Castor canadensis	Hystrix indica	#5aa2b3	
+306	Fully-configurable full-range paradigm	4	a	Nasua nasua	Globicephala melas	Amazona sp.	Leprocaulinus vipera	#ec0141	
+307	Future-proofed radical help-desk	6	b	Pseudocheirus peregrinus	Certotrichas paena	Cebus apella	Globicephala melas	#a88159	
+308	Visionary neutral frame	5	a	Psophia viridis	Paraxerus cepapi	Lamprotornis sp.	Corvus albus	#5d810a	
+309	Multi-tiered full-range software	4	c	Eudyptula minor	Podargus strigoides	Manouria emys	Paroaria gularis	#964e3c	
+310	Cross-platform interactive concept	2	c	Delphinus delphis	Anser caerulescens	Procyon cancrivorus	Macropus parryi	#4dd46c	
+311	Organized maximized extranet	1	d	Corvus albus	Varanus sp.	Antilocapra americana	Varanus sp.	#a3ca38	
+312	Seamless web-enabled access	5	d	Anser anser	Theropithecus gelada	Pseudoleistes virescens	Sterna paradisaea	#dc9fe3	
+313	Customer-focused eco-centric alliance	2	c	Potorous tridactylus	Deroptyus accipitrinus	Pelecanus occidentalis	Columba palumbus	#371528	
+314	Proactive bottom-line concept	8	a	Dasyprocta leporina	Varanus sp.	Nannopterum harrisi	Vulpes chama	#353966	
+315	Multi-tiered context-sensitive strategy	4	b	Mabuya spilogaster	Cacatua tenuirostris	Agkistrodon piscivorus	Ctenophorus ornatus	#3645fc	
+316	User-centric uniform encoding	1	c	Ephippiorhynchus mycteria	unavailable	Bassariscus astutus	Sarkidornis melanotos	#5e883b	
+317	Self-enabling contextually-based hierarchy	5	c	Bucorvus leadbeateri	Eumetopias jubatus	Echimys chrysurus	Coracias caudata	#63c595	
+318	Configurable modular initiative	5	b	Limosa haemastica	Macropus rufus	Parus atricapillus	Hymenolaimus malacorhynchus	#a3f99c	
+319	Monitored neutral migration	6	d	Dusicyon thous	Aegypius tracheliotus	Iguana iguana	Phasianus colchicus	#6855a5	
+320	Adaptive 4th generation attitude	4	d	Macropus robustus	Milvago chimachima	Felis silvestris lybica	Phalaropus fulicarius	#1015f4	
+321	Persevering 24 hour infrastructure	7	a	Callorhinus ursinus	Elephas maximus bengalensis	Raphicerus campestris	Gymnorhina tibicen	#03e8d4	
+322	Managed next generation success	4	a	Bettongia penicillata	Microcavia australis	Phalaropus fulicarius	Calyptorhynchus magnificus	#3063c4	
+323	Realigned optimal utilisation	6	c	Buteo jamaicensis	Semnopithecus entellus	Uraeginthus granatina	Lasiodora parahybana	#5e3c6a	
+324	Programmable scalable moderator	8	c	Sterna paradisaea	Varanus komodensis	Ardea golieth	Isoodon obesulus	#71906e	
+325	Progressive 24 hour knowledge base	4	d	Macropus fuliginosus	Sitta canadensis	Macaca radiata	Stercorarius longicausus	#832bf5	
+326	Reactive logistical installation	8	c	Chauna torquata	Morelia spilotes variegata	Trichoglossus haematodus moluccanus	Motacilla aguimp	#5aefa3	
+327	Versatile motivating neural-net	9	b	Dasypus novemcinctus	Spermophilus armatus	Lasiodora parahybana	Climacteris melanura	#c8f81d	
+328	Devolved user-facing array	2	c	Bassariscus astutus	Castor canadensis	Canis lupus	Acanthaster planci	#c22dd2	
+329	Reverse-engineered coherent open architecture	3	b	Corythornis cristata	Ara ararauna	Canis aureus	Ratufa indica	#c6d632	
+330	Advanced interactive support	9	d	Neophoca cinerea	Canis mesomelas	Bison bison	Panthera leo persica	#499ebc	
+331	Intuitive multi-tasking Graphic Interface	4	d	Vulpes vulpes	Choloepus hoffmani	Paroaria gularis	Acanthaster planci	#028f2e	
+332	Automated tertiary capability	2	c	unavailable	Vanellus armatus	Semnopithecus entellus	Ovis ammon	#8ffe9b	
+333	Team-oriented encompassing throughput	9	d	Melursus ursinus	Mellivora capensis	Anas bahamensis	Meleagris gallopavo	#a1ab48	
+334	User-centric mission-critical application	7	c	Ovis dalli stonei	Vanellus armatus	Ninox superciliaris	Equus burchelli	#7e4c07	
+335	Horizontal executive core	9	c	Callipepla gambelii	Melursus ursinus	Ammospermophilus nelsoni	Odocoilenaus virginianus	#815ff5	
+336	Customizable reciprocal extranet	7	c	Uraeginthus bengalus	Pterocles gutturalis	Dasyurus viverrinus	Chauna torquata	#09fb15	
+337	Realigned content-based installation	4	d	Otocyon megalotis	Dicrostonyx groenlandicus	Sauromalus obesus	Zonotrichia capensis	#1e83f8	
+338	Virtual well-modulated project	10	b	Prionace glauca	Francolinus coqui	Ursus americanus	Boa constrictor mexicana	#383069	
+339	Self-enabling dynamic neural-net	7	a	Heloderma horridum	Canis lupus	Varanus salvator	Callorhinus ursinus	#62b340	
+340	Decentralized reciprocal groupware	6	d	Certotrichas paena	Macropus parryi	Cacatua tenuirostris	Ploceus intermedius	#cf3160	
+341	Customer-focused 24 hour flexibility	3	a	Anastomus oscitans	Milvus migrans	Pelecans onocratalus	Loxodonta africana	#305864	
+342	Synergized dynamic paradigm	4	b	Spizaetus coronatus	Ara ararauna	Centrocercus urophasianus	Bassariscus astutus	#f69d8b	
+343	Vision-oriented reciprocal conglomeration	2	b	Spermophilus armatus	Vulpes vulpes	Ctenophorus ornatus	Junonia genoveua	#799a84	
+344	Innovative even-keeled workforce	8	b	Laniarius ferrugineus	Plegadis ridgwayi	Taxidea taxus	Chlamydosaurus kingii	#a6d329	
+345	Streamlined upward-trending knowledge user	3	b	Laniaurius atrococcineus	Paraxerus cepapi	Redunca redunca	Thalasseus maximus	#9512eb	
+346	Virtual incremental middleware	7	b	Tadorna tadorna	Kobus defassa	Mazama gouazoubira	Neotis denhami	#53061e	
+347	Organic asynchronous toolset	8	d	Conolophus subcristatus	Anser anser	Lemur fulvus	Macaca mulatta	#d06147	
+348	Persevering dynamic synergy	4	d	Felis pardalis	Hymenolaimus malacorhynchus	Anas bahamensis	Haematopus ater	#62ab7c	
+349	Open-architected radical analyzer	10	a	Ara chloroptera	Alopex lagopus	Aonyx cinerea	Tamandua tetradactyla	#f026ff	
+350	Ergonomic zero tolerance definition	3	a	Psophia viridis	Geochelone radiata	Laniaurius atrococcineus	Laniarius ferrugineus	#de7c2f	
+351	Synergized stable structure	9	c	Canis lupus lycaon	Crotalus cerastes	Junonia genoveua	Cyrtodactylus louisiadensis	#4aaab4	
+352	Multi-lateral bottom-line utilisation	9	d	Dendrocitta vagabunda	Phascogale tapoatafa	Certotrichas paena	Zosterops pallidus	#3e0eca	
+353	Multi-tiered real-time utilisation	1	a	Grus rubicundus	Motacilla aguimp	Francolinus leucoscepus	Dusicyon thous	#bd5ef9	
+354	Upgradable bifurcated artificial intelligence	1	d	Ramphastos tucanus	Ara ararauna	Megaderma spasma	Geochelone elephantopus	#1da6b2	
+355	Integrated bandwidth-monitored contingency	9	d	Castor canadensis	Gekko gecko	Procyon cancrivorus	Mephitis mephitis	#ee8094	
+356	Open-source intangible architecture	5	b	Bucorvus leadbeateri	Drymarchon corias couperi	Vulpes chama	Aegypius occipitalis	#de841f	
+357	Total human-resource alliance	2	a	Calyptorhynchus magnificus	Helogale undulata	Spermophilus richardsonii	Butorides striatus	#36834f	
+358	Up-sized high-level frame	1	c	Geochelone elephantopus	Isoodon obesulus	Chauna torquata	Melophus lathami	#99b200	
+359	Grass-roots full-range forecast	6	d	Spilogale gracilis	Gerbillus sp.	Anhinga rufa	Grus rubicundus	#e743d9	
+360	Enterprise-wide secondary structure	5	b	Phalaropus fulicarius	Cordylus giganteus	Aegypius occipitalis	Herpestes javanicus	#b5bb2a	
+361	Re-engineered solution-oriented internet solution	3	b	Lycosa godeffroyi	Petaurus norfolcensis	Anser caerulescens	Bison bison	#41134f	
+362	Total zero defect pricing structure	1	d	Ciconia episcopus	Chamaelo sp.	Didelphis virginiana	Eudyptula minor	#5368e4	
+363	Persistent transitional secured line	3	c	Tachyglossus aculeatus	Anastomus oscitans	Ceryle rudis	Lamprotornis nitens	#83fbdf	
+364	Inverse bi-directional customer loyalty	4	c	Hystrix cristata	Conolophus subcristatus	Macaca mulatta	Orcinus orca	#7abb17	
+365	De-engineered uniform knowledge base	7	d	Cynomys ludovicianus	Halcyon smyrnesis	Spizaetus coronatus	Iguana iguana	#abf81a	
+366	Grass-roots value-added project	5	d	unavailable	Merops nubicus	Pelecanus conspicillatus	Laniaurius atrococcineus	#e8cade	
+367	Versatile intermediate contingency	4	c	Cordylus giganteus	Ammospermophilus nelsoni	Phalacrocorax carbo	Bison bison	#6d2a8b	
+368	Open-architected asynchronous hub	10	b	Sus scrofa	Cracticus nigroagularis	Bettongia penicillata	Macropus agilis	#080d9f	
+369	Visionary foreground installation	9	a	Sceloporus magister	Irania gutteralis	Agkistrodon piscivorus	Trichosurus vulpecula	#0af3bb	
+370	Visionary multi-state interface	4	d	Loris tardigratus	Coendou prehensilis	Vulpes vulpes	Phalacrocorax carbo	#d83419	
+371	Fully-configurable eco-centric standardization	2	b	Tragelaphus strepsiceros	Smithopsis crassicaudata	Hystrix cristata	Spermophilus parryii	#2f10ce	
+372	Function-based systematic synergy	4	d	Panthera leo persica	Lophoaetus occipitalis	Hymenolaimus malacorhynchus	Aonyx cinerea	#6dd18c	
+373	Customer-focused upward-trending core	5	d	Pycnonotus nigricans	Turtur chalcospilos	Callipepla gambelii	Stenella coeruleoalba	#b0cdd3	
+374	Adaptive 24 hour forecast	8	d	Dendrohyrax brucel	Graspus graspus	Manouria emys	Geochelone radiata	#717d9b	
+375	Cross-group background contingency	3	d	unavailable	Cynictis penicillata	Ara macao	Milvago chimachima	#4b244c	
+376	Advanced actuating strategy	5	b	Pavo cristatus	Semnopithecus entellus	Dicrostonyx groenlandicus	Megaderma spasma	#f06dd1	
+377	De-engineered human-resource structure	10	a	Ara ararauna	Macropus eugenii	Hymenolaimus malacorhynchus	Crotalus triseriatus	#aa9298	
+378	Universal content-based internet solution	8	d	Anthropoides paradisea	Antilope cervicapra	Castor canadensis	Ictalurus furcatus	#897c9c	
+379	Fully-configurable systematic firmware	4	d	Toxostoma curvirostre	Lutra canadensis	Varanus sp.	Aonyx cinerea	#56503e	
+380	Configurable non-volatile open architecture	3	c	Antechinus flavipes	Colobus guerza	Tamiasciurus hudsonicus	Smithopsis crassicaudata	#8118f9	
+381	Organized exuding structure	6	d	Aegypius tracheliotus	Gazella granti	Butorides striatus	Bubo virginianus	#503390	
+382	Business-focused homogeneous flexibility	5	b	Ammospermophilus nelsoni	Cervus duvauceli	Ourebia ourebi	Felis libyca	#269de4	
+383	Realigned systemic superstructure	2	b	Bos taurus	Phalaropus lobatus	Rhabdomys pumilio	Buteo galapagoensis	#bc7740	
+384	Pre-emptive bi-directional customer loyalty	7	c	Redunca redunca	Cathartes aura	Alcelaphus buselaphus caama	Connochaetus taurinus	#32112c	
+385	Versatile eco-centric circuit	7	c	Vanellus armatus	Erethizon dorsatum	Cercopithecus aethiops	Crocuta crocuta	#bbc20d	
+386	Cross-platform directional support	9	c	Columba livia	Rhea americana	Mycteria leucocephala	Macaca nemestrina	#c65500	
+387	Robust mission-critical moderator	3	b	Cercopithecus aethiops	Neotis denhami	Myrmecobius fasciatus	Antechinus flavipes	#75a064	
+388	Programmable bi-directional synergy	4	c	Alcelaphus buselaphus cokii	Trachyphonus vaillantii	Merops bullockoides	Bos taurus	#ecca92	
+389	Centralized cohesive firmware	7	b	Equus burchelli	Tayassu tajacu	Panthera onca	Bettongia penicillata	#af9d40	
+390	Enhanced attitude-oriented internet solution	5	c	Capreolus capreolus	Felis silvestris lybica	Bassariscus astutus	Gekko gecko	#8a14ee	
+391	Streamlined explicit system engine	9	d	Choriotis kori	Deroptyus accipitrinus	Pycnonotus nigricans	Dendrocitta vagabunda	#08d0ed	
+392	Centralized well-modulated application	10	a	Lepus arcticus	Bucorvus leadbeateri	Coluber constrictor	Uraeginthus granatina	#608025	
+393	Team-oriented transitional forecast	6	c	Pseudocheirus peregrinus	Trichoglossus haematodus moluccanus	Macropus agilis	Canis aureus	#2ca38b	
+394	Persistent bifurcated help-desk	4	b	Ovibos moschatus	Anas bahamensis	Centrocercus urophasianus	Sagittarius serpentarius	#8b2f39	
+395	Profit-focused regional implementation	8	a	Myiarchus tuberculifer	Fratercula corniculata	Psophia viridis	Ploceus rubiginosus	#c9d809	
+396	Operative solution-oriented encryption	8	d	Lepus townsendii	Melursus ursinus	Genetta genetta	Isoodon obesulus	#4bfa2c	
+397	Ameliorated demand-driven website	6	a	Felis wiedi or Leopardus weidi	Tamiasciurus hudsonicus	Drymarchon corias couperi	Recurvirostra avosetta	#bf08c6	
+398	Automated scalable methodology	9	b	Zosterops pallidus	Zenaida asiatica	Ardea cinerea	Gerbillus sp.	#7cb7c4	
+399	Streamlined composite process improvement	9	c	Eubalaena australis	Sylvicapra grimma	Limnocorax flavirostra	Halcyon smyrnesis	#ba28ce	
+400	Fundamental systemic capability	1	a	Vombatus ursinus	Cygnus atratus	Ovis dalli stonei	Tadorna tadorna	#fc9894	
+401	Persistent even-keeled array	2	a	Alopex lagopus	Streptopelia decipiens	Tringa glareola	Cervus unicolor	#b25b16	
+402	Quality-focused 4th generation customer loyalty	1	d	Macaca fuscata	Pseudocheirus peregrinus	Fratercula corniculata	Spheniscus mendiculus	#cd84d5	
+403	Reactive interactive application	3	b	Microcebus murinus	Cebus albifrons	Oxybelis sp.	Sarkidornis melanotos	#3ec1c9	
+404	Digitized bottom-line analyzer	10	d	Chlamydosaurus kingii	Pelecans onocratalus	Francolinus leucoscepus	Tadorna tadorna	#be07b0	
+405	Centralized static firmware	8	a	Pterocles gutturalis	Dipodomys deserti	Genetta genetta	Genetta genetta	#8e3325	
+406	Universal clear-thinking installation	4	c	Numida meleagris	Platalea leucordia	Tamandua tetradactyla	Coendou prehensilis	#63f924	
+407	Diverse impactful superstructure	6	a	Alces alces	Colaptes campestroides	Bubo virginianus	Diceros bicornis	#c7dbe0	
+408	Exclusive radical analyzer	6	b	Tragelaphus strepsiceros	Zenaida galapagoensis	Funambulus pennati	unavailable	#c17666	
+409	Configurable fault-tolerant strategy	1	d	Ara chloroptera	Chionis alba	Ciconia episcopus	Macropus agilis	#c7bb49	
+410	Object-based next generation frame	7	d	Phalacrocorax brasilianus	Antidorcas marsupialis	Vombatus ursinus	Spermophilus richardsonii	#25b0ff	
+411	Horizontal upward-trending array	10	a	Semnopithecus entellus	Buteo regalis	Tayassu pecari	Dasyurus maculatus	#6042fa	
+412	Right-sized disintermediate toolset	5	d	Lorythaixoides concolor	Streptopelia senegalensis	Lutra canadensis	Erethizon dorsatum	#d27ee8	
+413	Innovative object-oriented product	5	d	Papio ursinus	Chionis alba	Ciconia ciconia	Diomedea irrorata	#198542	
+414	Operative empowering system engine	4	d	Coracias caudata	Antechinus flavipes	Pituophis melanaleucus	Haliaetus vocifer	#3ca906	
+415	Advanced bandwidth-monitored definition	9	d	Castor canadensis	Phalacrocorax niger	Paroaria gularis	Taurotagus oryx	#e56540	
+416	Decentralized cohesive portal	8	b	Branta canadensis	Acrobates pygmaeus	Uraeginthus angolensis	Dasyurus viverrinus	#51013c	
+417	Versatile object-oriented policy	8	d	Phaethon aethereus	Lama pacos	Tachyglossus aculeatus	Bucorvus leadbeateri	#31287b	
+418	Horizontal foreground conglomeration	9	a	Cordylus giganteus	Merops nubicus	Bucorvus leadbeateri	Ornithorhynchus anatinus	#3e78ce	
+419	Managed upward-trending software	10	a	Larus novaehollandiae	Neotis denhami	Chordeiles minor	Phascogale tapoatafa	#d08879	
+420	Extended user-facing budgetary management	8	d	Odocoilenaus virginianus	Haematopus ater	Corvus albicollis	Hippotragus niger	#cd24d2	
+421	Ergonomic clear-thinking paradigm	5	b	Tringa glareola	Coluber constrictor	Cacatua tenuirostris	Helogale undulata	#9d229c	
+422	Digitized system-worthy synergy	5	a	Hystrix cristata	Picoides pubescens	Uraeginthus bengalus	Corvus albicollis	#81a9f0	
+423	Enterprise-wide even-keeled data-warehouse	1	a	Dromaeus novaehollandiae	Crotalus cerastes	Phoca vitulina	Gopherus agassizii	#a1740c	
+424	Sharable needs-based hardware	2	d	Tetracerus quadricornis	Cracticus nigroagularis	Echimys chrysurus	Larus fuliginosus	#52632b	
+425	Switchable disintermediate circuit	6	a	Oryx gazella	Panthera leo persica	Cacatua tenuirostris	Canis lupus baileyi	#748251	
+426	Innovative content-based hub	4	c	Bucorvus leadbeateri	Phasianus colchicus	Phoca vitulina	Lemur catta	#da4ffb	
+427	User-friendly attitude-oriented emulation	2	c	Odocoileus hemionus	Cebus albifrons	Bradypus tridactylus	Zosterops pallidus	#35d418	
+428	Team-oriented asymmetric secured line	5	c	Isoodon obesulus	Cebus nigrivittatus	Bassariscus astutus	Galictis vittata	#41e87e	
+429	Future-proofed web-enabled projection	9	c	Ornithorhynchus anatinus	Vulpes vulpes	Panthera tigris	Naja sp.	#d9ebde	
+430	Visionary system-worthy archive	8	b	Uraeginthus angolensis	Dusicyon thous	Alouatta seniculus	Zalophus californicus	#7c861b	
+431	Organized intangible groupware	2	c	Pituophis melanaleucus	Bucorvus leadbeateri	Mazama gouazoubira	Sagittarius serpentarius	#c898ff	
+432	Switchable motivating time-frame	5	d	Diceros bicornis	Felis caracal	Geococcyx californianus	Lamprotornis nitens	#8f9f68	
+433	Re-engineered dynamic challenge	3	d	Threskionis aethiopicus	Rhabdomys pumilio	Funambulus pennati	unavailable	#01fa2a	
+434	Balanced eco-centric function	8	c	Acrantophis madagascariensis	Sylvicapra grimma	Tiliqua scincoides	Bettongia penicillata	#8f2c42	
+435	Customizable incremental artificial intelligence	6	b	Vulpes cinereoargenteus	Anas platyrhynchos	Nycticorax nycticorax	Crotalus triseriatus	#f917ec	
+436	Multi-tiered 4th generation open system	6	d	Speotyte cuniculata	Mazama gouazoubira	Pycnonotus barbatus	Alligator mississippiensis	#0411fc	
+437	Proactive mobile neural-net	7	b	Physignathus cocincinus	Laniarius ferrugineus	Equus burchelli	Otocyon megalotis	#b9c423	
+438	Synchronised 5th generation monitoring	2	d	Ateles paniscus	Gyps bengalensis	Trichechus inunguis	Sula nebouxii	#71fcc8	
+439	Cross-group static product	2	d	Actophilornis africanus	Ursus americanus	Erethizon dorsatum	Graspus graspus	#66297c	
+440	Devolved methodical migration	6	d	Anthropoides paradisea	Colobus guerza	Ateles paniscus	Catharacta skua	#5d59cf	
+441	Down-sized transitional hub	9	d	Felis caracal	Fulica cristata	Sarcophilus harrisii	Bucorvus leadbeateri	#9110ec	
+442	Multi-channelled analyzing complexity	8	d	unavailable	Aegypius tracheliotus	Anathana ellioti	Phylurus milli	#6c8334	
+443	Quality-focused scalable interface	1	b	Hippotragus niger	Psophia viridis	Chlidonias leucopterus	Sauromalus obesus	#878ef1	
+444	Profound 24/7 framework	4	a	Uraeginthus angolensis	Rhea americana	Thalasseus maximus	Antidorcas marsupialis	#200c17	
+445	Advanced impactful middleware	7	d	Bucorvus leadbeateri	Dasyprocta leporina	Mirounga leonina	Nasua narica	#0001f6	
+446	Expanded object-oriented toolset	10	c	Phoeniconaias minor	Pteropus rufus	Anthropoides paradisea	Irania gutteralis	#87b035	
+447	Pre-emptive executive focus group	7	d	Helogale undulata	Trichosurus vulpecula	Aonyx capensis	Uraeginthus angolensis	#31642c	
+448	Cross-group asynchronous task-force	9	c	Semnopithecus entellus	Tamiasciurus hudsonicus	Lamprotornis nitens	Hyaena hyaena	#be6709	
+449	Cloned heuristic model	5	d	Hymenolaimus malacorhynchus	Spheniscus magellanicus	Vanessa indica	Graspus graspus	#38e99b	
+450	Stand-alone explicit circuit	4	c	Chlamydosaurus kingii	Columba livia	Meleagris gallopavo	Ovis canadensis	#5f3b5e	
+451	Devolved secondary forecast	7	a	Drymarchon corias couperi	Ictonyx striatus	Aquila chrysaetos	Myiarchus tuberculifer	#92298a	
+452	Exclusive local orchestration	6	c	Tauraco porphyrelophus	Mustela nigripes	Zonotrichia capensis	Sarkidornis melanotos	#aa01bc	
+453	Inverse scalable customer loyalty	10	d	Spheniscus magellanicus	Gabianus pacificus	Phalaropus lobatus	Meleagris gallopavo	#1b6519	
+454	Enterprise-wide zero defect productivity	2	b	Macaca mulatta	Sula nebouxii	Oryx gazella	Pycnonotus nigricans	#19f00b	
+455	Down-sized fault-tolerant methodology	7	c	Sula dactylatra	Merops nubicus	Pelecans onocratalus	Choriotis kori	#0c289c	
+456	Down-sized systematic protocol	6	c	Thylogale stigmatica	Aquila chrysaetos	Climacteris melanura	Libellula quadrimaculata	#14bb96	
+457	Multi-tiered discrete solution	2	d	Laniaurius atrococcineus	Canis aureus	Oreamnos americanus	Pelecans onocratalus	#c8154d	
+458	Balanced needs-based ability	1	d	Naja nivea	Deroptyus accipitrinus	Herpestes javanicus	Cercopithecus aethiops	#bfac5f	
+459	Robust systemic framework	8	a	Terathopius ecaudatus	Cracticus nigroagularis	Chlidonias leucopterus	Axis axis	#54aec0	
+460	Compatible responsive process improvement	7	b	Rhea americana	Castor fiber	Procyon cancrivorus	Cochlearius cochlearius	#54d19d	
+461	Automated maximized instruction set	1	d	Ardea golieth	Redunca redunca	Picoides pubescens	Iguana iguana	#4f2ecc	
+462	Open-architected systemic strategy	6	d	Actophilornis africanus	Perameles nasuta	Marmota monax	Chauna torquata	#333bd3	
+463	Centralized value-added process improvement	5	c	Corallus hortulanus cooki	Crax sp.	Butorides striatus	Castor fiber	#f20ade	
+464	Sharable attitude-oriented extranet	8	b	Ephippiorhynchus mycteria	Petaurus norfolcensis	Coluber constrictor	Tenrec ecaudatus	#e74746	
+465	Quality-focused static portal	5	a	Psittacula krameri	Cereopsis novaehollandiae	Loris tardigratus	Mycteria ibis	#1ca36b	
+466	Expanded empowering complexity	8	a	Coendou prehensilis	Macropus agilis	Colobus guerza	Corvus albicollis	#ca0df9	
+467	Virtual upward-trending interface	6	d	Kobus defassa	Hystrix cristata	Varanus sp.	Vulpes vulpes	#37cb2b	
+468	Extended 5th generation knowledge user	7	c	Papio cynocephalus	Casmerodius albus	Bubulcus ibis	Proteles cristatus	#56eed3	
+469	Quality-focused systemic encoding	6	d	Tursiops truncatus	Ictalurus furcatus	Dendrocygna viduata	Seiurus aurocapillus	#367e2f	
+470	Profit-focused multi-tasking interface	10	a	Cervus elaphus	Anser caerulescens	Microcebus murinus	Bison bison	#c24ab0	
+471	Multi-lateral foreground model	10	b	Acrantophis madagascariensis	Axis axis	Tachyglossus aculeatus	Perameles nasuta	#58e524	
+472	Progressive attitude-oriented hub	5	a	Papio cynocephalus	Laniarius ferrugineus	Ctenophorus ornatus	Paraxerus cepapi	#9f5489	
+473	Persistent radical architecture	8	a	Larus dominicanus	Cyrtodactylus louisiadensis	Ciconia episcopus	Castor canadensis	#d51311	
+474	Multi-channelled system-worthy standardization	8	d	Gyps bengalensis	Eolophus roseicapillus	Acrobates pygmaeus	Centrocercus urophasianus	#1c0c5f	
+475	Customer-focused static array	7	b	Mirounga leonina	Buteo galapagoensis	Tapirus terrestris	Lamprotornis superbus	#a46819	
+476	Self-enabling bottom-line standardization	4	b	Chauna torquata	Agouti paca	Herpestes javanicus	Cebus albifrons	#4f559b	
+477	Proactive optimal array	5	d	Macropus rufus	Tachyglossus aculeatus	Macropus rufus	Cyrtodactylus louisiadensis	#1e8fd1	
+478	Reactive local system engine	8	d	Macropus eugenii	Phalaropus lobatus	Petaurus norfolcensis	Trichosurus vulpecula	#19c395	
+479	Enterprise-wide contextually-based groupware	10	a	Rangifer tarandus	Cordylus giganteus	Gyps bengalensis	Pavo cristatus	#925ffb	
+480	Upgradable systemic help-desk	1	a	Panthera leo	Marmota monax	Paradoxurus hermaphroditus	Varanus sp.	#b3b875	
+481	User-friendly mobile encoding	2	b	Theropithecus gelada	Phoca vitulina	Mephitis mephitis	Conolophus subcristatus	#c7466f	
+482	Stand-alone static open system	4	a	Anas bahamensis	Priodontes maximus	Bubulcus ibis	Spheniscus mendiculus	#6f8a55	
+483	Inverse intermediate help-desk	1	d	Plegadis ridgwayi	Alligator mississippiensis	Dusicyon thous	Junonia genoveua	#51c564	
+484	Organic demand-driven middleware	1	a	Eumetopias jubatus	Spheniscus mendiculus	Lutra canadensis	Ursus arctos	#88540d	
+485	Balanced optimal encoding	7	d	Trichoglossus chlorolepidotus	Mirounga angustirostris	Chelodina longicollis	Spizaetus coronatus	#70d019	
+486	Down-sized foreground time-frame	10	c	Motacilla aguimp	Merops nubicus	unavailable	Ara chloroptera	#b09e05	
+487	Face to face 5th generation complexity	8	a	Panthera leo	Macaca fuscata	Semnopithecus entellus	Falco peregrinus	#c24baa	
+488	User-centric client-driven intranet	7	a	Lutra canadensis	Macropus fuliginosus	Connochaetus taurinus	unavailable	#5d3958	
+489	Proactive scalable budgetary management	6	d	Tamiasciurus hudsonicus	Macropus parryi	Phylurus milli	Sarcophilus harrisii	#ce6202	
+490	Front-line bi-directional protocol	7	d	Anathana ellioti	Vanellus sp.	Sciurus vulgaris	Ratufa indica	#872d3f	
+491	Universal discrete database	10	c	Eolophus roseicapillus	Chlidonias leucopterus	Ploceus rubiginosus	Macropus rufogriseus	#a6fc16	
+492	Inverse bi-directional knowledge base	9	a	Paradoxurus hermaphroditus	Physignathus cocincinus	Philetairus socius	Pseudalopex gymnocercus	#cb81f0	
+493	Devolved intermediate attitude	2	a	Taurotagus oryx	Bubulcus ibis	Callipepla gambelii	Anas platyrhynchos	#fb2472	
+494	Future-proofed upward-trending matrices	10	d	Macaca fuscata	Zenaida galapagoensis	Oryx gazella	Damaliscus dorcas	#30bf72	
+495	Customizable 6th generation frame	8	d	Uraeginthus angolensis	Gyps bengalensis	Alopex lagopus	Semnopithecus entellus	#5719f9	
+496	Programmable eco-centric encoding	8	a	Myrmecobius fasciatus	Chamaelo sp.	Prionace glauca	Coendou prehensilis	#e368d2	
+497	Right-sized directional Graphical User Interface	8	a	Tragelaphus strepsiceros	Vulpes vulpes	Eubalaena australis	Physignathus cocincinus	#40fc38	
+498	Monitored object-oriented matrix	8	c	Merops sp.	Dasyurus maculatus	Bubo sp.	Canis mesomelas	#0eb6a4	
+499	Reverse-engineered scalable knowledge base	9	a	Perameles nasuta	Canis lupus lycaon	Rangifer tarandus	Cordylus giganteus	#28950b	
+500	Managed system-worthy attitude	3	d	Neotis denhami	Damaliscus dorcas	Vombatus ursinus	Chauna torquata		local area network
+501	Down-sized regional model	5	a	Myrmecophaga tridactyla	Falco mexicanus	Sagittarius serpentarius	Semnopithecus entellus		static
+502	Customizable directional budgetary management	10	d	Psittacula krameri	Ephipplorhynchus senegalensis	Trichosurus vulpecula	Varanus sp.		multi-tasking
+503	Polarised intangible structure	3	d	Mycteria ibis	Corvus brachyrhynchos	Semnopithecus entellus	Acrantophis madagascariensis		standardization
+504	Grass-roots zero tolerance attitude	1	d	Mazama gouazoubira	Columba palumbus	Arctogalidia trivirgata	Chlamydosaurus kingii		Multi-tiered
+505	Face to face high-level extranet	3	b	Hyaena brunnea	Ictalurus furcatus	Sylvilagus floridanus	Vanessa indica		well-modulated
+506	Mandatory impactful utilisation	8	c	Trachyphonus vaillantii	Aonyx capensis	Thylogale stigmatica	Helogale undulata		local area network
+507	Cross-platform 3rd generation interface	6	d	Pelecans onocratalus	Eira barbata	Didelphis virginiana	Stercorarius longicausus		Persistent
+508	Extended systematic algorithm	2	a	Charadrius tricollaris	Cordylus giganteus	Balearica pavonina	Phalaropus lobatus		protocol
+509	Business-focused contextually-based parallelism	7	a	Kobus defassa	Myiarchus tuberculifer	Junonia genoveua	Mirounga leonina		systematic
+510	Integrated optimizing array	9	a	Francolinus swainsonii	Mephitis mephitis	Tenrec ecaudatus	Anser anser		Progressive
+511	Progressive upward-trending standardization	9	c	Cebus apella	Lophoaetus occipitalis	Chelodina longicollis	Cordylus giganteus		Digitized
+512	Balanced optimal task-force	9	a	Merops nubicus	Lorythaixoides concolor	Pavo cristatus	Marmota caligata		Multi-tiered
+513	Sharable dynamic structure	8	b	Colobus guerza	Lamprotornis chalybaeus	Papilio canadensis	Phalaropus lobatus		interface
+514	Reverse-engineered empowering artificial intelligence	2	b	Ciconia ciconia	Phascogale calura	Boa constrictor mexicana	Lybius torquatus		coherent
+515	De-engineered zero administration open architecture	2	a	Parus atricapillus	Climacteris melanura	Francolinus coqui	Heloderma horridum		Programmable
+516	Adaptive grid-enabled capability	9	c	Spermophilus richardsonii	Nectarinia chalybea	Tadorna tadorna	Vanellus armatus		bi-directional
+517	Streamlined bottom-line software	4	c	Cervus duvauceli	Felis concolor	Oryx gazella callotis	Canis dingo		global
+518	Universal 4th generation orchestration	2	b	unavailable	Geochelone elegans	Chelodina longicollis	Eremophila alpestris		complexity
+519	Integrated tertiary extranet	5	c	Meles meles	Tachybaptus ruficollis	Lepus townsendii	Phascogale tapoatafa		matrix
+520	Programmable radical frame	6	c	Meles meles	Ploceus rubiginosus	Heloderma horridum	Corallus hortulanus cooki		open system
+521	Networked zero administration concept	8	d	Aquila chrysaetos	Macropus agilis	Isoodon obesulus	Parus atricapillus		Streamlined
+522	Grass-roots directional adapter	9	c	Ovis ammon	Leptoptilos crumeniferus	Phascogale calura	Ctenophorus ornatus		open architecture
+523	Synergized methodical toolset	7	c	Canis aureus	Cebus apella	Phalacrocorax niger	unavailable		Cross-group
+524	Synergized next generation framework	9	a	Tockus flavirostris	Dacelo novaeguineae	Galago crassicaudataus	Lamprotornis superbus		archive
+525	Reduced analyzing groupware	7	b	Lepilemur rufescens	Equus burchelli	Trichosurus vulpecula	Laniarius ferrugineus		policy
+526	Secured analyzing protocol	5	c	Francolinus coqui	Iguana iguana	Tayassu tajacu	Antilocapra americana		needs-based
+527	Operative neutral firmware	8	b	Phoenicopterus ruber	Cervus canadensis	Ceryle rudis	Caiman crocodilus		instruction set
+528	Versatile executive ability	7	c	Dipodomys deserti	Podargus strigoides	Vulpes vulpes	Chauna torquata		Phased
+529	Assimilated mobile frame	9	c	Oryx gazella	Alopex lagopus	Eubalaena australis	Genetta genetta		multi-tasking
+530	Business-focused coherent process improvement	1	a	Cacatua tenuirostris	Cynictis penicillata	Canis lupus lycaon	Ephippiorhynchus mycteria		human-resource
+531	Expanded full-range artificial intelligence	9	c	Limosa haemastica	Ovibos moschatus	Boa caninus	Psittacula krameri		hybrid
+532	Total static access	2	d	Sus scrofa	Crotaphytus collaris	Corvus albicollis	Neotis denhami		time-frame
+533	Phased systemic budgetary management	4	d	Sarcophilus harrisii	Ninox superciliaris	Cebus apella	Hystrix cristata		didactic
+534	Horizontal reciprocal alliance	9	b	Corvus albus	Macropus rufogriseus	Ateles paniscus	Terathopius ecaudatus		Re-contextualized
+535	Distributed national framework	6	d	Terrapene carolina	Gymnorhina tibicen	Columba palumbus	Falco peregrinus		6th generation
+536	User-friendly real-time implementation	10	a	Crotalus cerastes	Chloephaga melanoptera	Acanthaster planci	Dusicyon thous		User-centric
+537	Innovative global forecast	6	b	Sauromalus obesus	Cathartes aura	unavailable	Macropus eugenii		upward-trending
+538	Multi-lateral reciprocal methodology	6	b	Butorides striatus	Chelodina longicollis	Bos taurus	Gazella thompsonii		Graphic Interface
+539	Open-source interactive analyzer	3	a	Macropus rufus	Bugeranus caruncalatus	Giraffe camelopardalis	Limnocorax flavirostra		Customizable
+540	Reduced tangible hardware	9	c	Lamprotornis superbus	Equus burchelli	Sula dactylatra	Colaptes campestroides		holistic
+541	Front-line value-added hardware	1	b	Macaca fuscata	Thamnolaea cinnmomeiventris	Morelia spilotes variegata	Sarkidornis melanotos		archive
+542	Expanded motivating internet solution	3	a	Delphinus delphis	Myrmecophaga tridactyla	Diomedea irrorata	Merops nubicus		Decentralized
+543	Profit-focused reciprocal moratorium	4	a	Aonyx capensis	Canis dingo	Macaca mulatta	Macropus robustus		empowering
+544	User-centric empowering success	9	b	Merops nubicus	Cygnus buccinator	Numida meleagris	Felis concolor		logistical
+545	Expanded next generation portal	2	d	Phoca vitulina	Sarkidornis melanotos	Potorous tridactylus	Grus rubicundus		workforce
+546	Open-source motivating interface	2	a	Streptopelia senegalensis	Raphicerus campestris	Casmerodius albus	Sula nebouxii		Open-architected
+547	Seamless tertiary system engine	7	c	Varanus sp.	Phalaropus fulicarius	Melanerpes erythrocephalus	Cervus duvauceli		circuit
+548	Triple-buffered bifurcated migration	7	d	Haematopus ater	Gyps bengalensis	Mellivora capensis	Picoides pubescens		help-desk
+549	Persevering background emulation	1	b	Bubulcus ibis	Haliaeetus leucoryphus	Himantopus himantopus	Macropus eugenii		hardware
+550	Intuitive eco-centric synergy	5	d	Naja haje	Mazama americana	Genetta genetta	Dasyurus viverrinus		software
+551	Inverse coherent array	4	b	Neophron percnopterus	Trachyphonus vaillantii	Macropus rufogriseus	Psophia viridis		orchestration
+552	Team-oriented explicit artificial intelligence	5	c	Iguana iguana	Merops nubicus	Coluber constrictor	Rhea americana		focus group
+553	Extended multi-tasking contingency	3	a	Felis silvestris lybica	Canis latrans	Alligator mississippiensis	Buteo jamaicensis		Self-enabling
+554	Virtual dedicated software	10	d	Varanus salvator	Sylvilagus floridanus	Falco mexicanus	Hippotragus niger		Open-source
+555	Total even-keeled capability	8	b	Ephippiorhynchus mycteria	Cercatetus concinnus	Terathopius ecaudatus	Stenella coeruleoalba		benchmark
+556	User-centric mission-critical conglomeration	8	c	Leptoptilus dubius	Lophoaetus occipitalis	Ovis ammon	Papio cynocephalus		Self-enabling
+557	Configurable real-time contingency	6	c	Leptoptilus dubius	Francolinus coqui	Anas bahamensis	Kobus defassa		open architecture
+558	Re-engineered optimal toolset	5	b	Chlidonias leucopterus	Ephipplorhynchus senegalensis	Tadorna tadorna	Pavo cristatus		Expanded
+559	Stand-alone 3rd generation matrices	8	b	Pterocles gutturalis	Corvus brachyrhynchos	Calyptorhynchus magnificus	Gyps fulvus		bottom-line
+560	Reactive secondary middleware	9	d	Alces alces	Alcelaphus buselaphus caama	Picoides pubescens	Spilogale gracilis		Centralized
+561	Visionary dynamic function	3	c	Canis aureus	Nannopterum harrisi	Climacteris melanura	Acrantophis madagascariensis		productivity
+562	Multi-tiered leading edge superstructure	1	a	Parus atricapillus	Cacatua galerita	Panthera leo	Spermophilus parryii		initiative
+563	Multi-channelled holistic customer loyalty	1	c	Gazella granti	Ursus maritimus	Castor canadensis	Neophoca cinerea		static
+564	Innovative non-volatile structure	9	c	Ictalurus furcatus	Paraxerus cepapi	Sitta canadensis	Uraeginthus bengalus		composite
+565	Sharable client-server flexibility	1	b	Tayassu tajacu	Cordylus giganteus	Lemur fulvus	Hymenolaimus malacorhynchus		Implemented
+566	Multi-tiered systematic portal	6	a	Oryx gazella	Lorythaixoides concolor	Phasianus colchicus	Limnocorax flavirostra		optimizing
+567	Compatible transitional portal	5	c	Ovis canadensis	Galago crassicaudataus	Acrantophis madagascariensis	Funambulus pennati		Persistent
+568	Fully-configurable exuding firmware	7	a	Cacatua tenuirostris	Diceros bicornis	Aepyceros mylampus	Graspus graspus		even-keeled
+569	Automated zero tolerance algorithm	2	b	Thalasseus maximus	Aegypius tracheliotus	Cracticus nigroagularis	Sciurus vulgaris		info-mediaries
+570	Organic neutral forecast	5	a	Varanus sp.	Kobus defassa	Plegadis falcinellus	Phoenicopterus ruber		forecast
+571	Innovative zero tolerance algorithm	10	d	Macropus giganteus	Lemur fulvus	Psophia viridis	Sitta canadensis		groupware
+572	Proactive incremental matrices	7	d	Kobus vardonii vardoni	Sarkidornis melanotos	Corvus albicollis	Panthera onca		Expanded
+573	Robust context-sensitive attitude	2	a	Delphinus delphis	Kobus defassa	Antidorcas marsupialis	Pelecanus conspicillatus		homogeneous
+574	Pre-emptive optimal conglomeration	9	d	Manouria emys	Balearica pavonina	Spheniscus magellanicus	Damaliscus dorcas		static
+575	User-centric 6th generation hub	4	b	Spizaetus coronatus	Felis rufus	Epicrates cenchria maurus	Callipepla gambelii		Optimized
+576	Decentralized didactic concept	4	c	Chlamydosaurus kingii	Platalea leucordia	Gekko gecko	Turtur chalcospilos		national
+577	Diverse neutral open system	2	b	Tiliqua scincoides	Macropus rufogriseus	Corallus hortulanus cooki	Platalea leucordia		Synergized
+578	Function-based demand-driven circuit	10	c	Pelecanus conspicillatus	Cracticus nigroagularis	Platalea leucordia	Haliaetus vocifer		Synergistic
+579	Customizable 6th generation open architecture	7	d	Odocoileus hemionus	Loris tardigratus	Cebus albifrons	Butorides striatus		leverage
+580	Open-architected client-driven toolset	4	c	Spheniscus magellanicus	Acridotheres tristis	Macropus fuliginosus	Ciconia ciconia		toolset
+581	Front-line bandwidth-monitored contingency	5	a	Nyctea scandiaca	Nyctea scandiaca	Stenella coeruleoalba	Mabuya spilogaster		Intuitive
+582	Virtual 24 hour info-mediaries	6	b	Uraeginthus granatina	Tamandua tetradactyla	Nyctea scandiaca	Spermophilus parryii		directional
+583	Reverse-engineered homogeneous hardware	6	b	Colaptes campestroides	Haematopus ater	Centrocercus urophasianus	Streptopelia decipiens		Compatible
+584	Intuitive modular strategy	9	d	Pterocles gutturalis	Corvus brachyrhynchos	Alligator mississippiensis	Sciurus vulgaris		optimizing
+585	Polarised tertiary encryption	7	a	Phoenicopterus ruber	Sula dactylatra	Acridotheres tristis	Anathana ellioti		regional
+586	User-friendly neutral alliance	9	c	Odocoileus hemionus	Acanthaster planci	Colobus guerza	Rhea americana		Versatile
+587	Multi-lateral zero administration open system	9	a	Vulpes cinereoargenteus	Pelecanus conspicillatus	Eubalaena australis	Ovis ammon		architecture
+588	Object-based demand-driven function	3	b	Galictis vittata	Castor canadensis	Tetracerus quadricornis	Felis silvestris lybica		responsive
+589	Centralized bandwidth-monitored solution	1	c	Castor fiber	Rangifer tarandus	Notechis semmiannulatus	Phoenicopterus ruber		Implemented
+590	Cross-platform encompassing focus group	6	b	Dasyurus viverrinus	Larus novaehollandiae	Papio cynocephalus	Thalasseus maximus		Centralized
+591	Profound national definition	4	b	Cordylus giganteus	Zenaida asiatica	Lutra canadensis	Mephitis mephitis		Enhanced
+592	Pre-emptive static hardware	2	b	Ourebia ourebi	Varanus sp.	Macropus fuliginosus	Ursus maritimus		Automated
+593	Optimized executive groupware	7	d	Papilio canadensis	Sarcophilus harrisii	Uraeginthus granatina	Chordeiles minor		Stand-alone
+594	Team-oriented client-driven knowledge user	3	c	Spilogale gracilis	Pelecanus occidentalis	Centrocercus urophasianus	Anastomus oscitans		complexity
+595	Enterprise-wide intangible methodology	4	c	Lama guanicoe	Funambulus pennati	Motacilla aguimp	Delphinus delphis		composite
+596	Profound bifurcated orchestration	4	c	Ara chloroptera	Ephippiorhynchus mycteria	Carduelis uropygialis	Gopherus agassizii		solution
+597	Automated non-volatile paradigm	6	a	Spermophilus richardsonii	Manouria emys	Macropus agilis	Caiman crocodilus		Grass-roots
+598	Multi-layered non-volatile collaboration	4	b	Gazella thompsonii	Axis axis	Trichosurus vulpecula	Dasyurus maculatus		Fundamental
+599	Exclusive multimedia leverage	1	b	Procyon lotor	Lepus townsendii	Chionis alba	Myotis lucifugus		Customizable
+600	Face to face 3rd generation complexity	9	a	Macropus parryi	Gorilla gorilla	Anthropoides paradisea	Theropithecus gelada		cohesive
+601	Business-focused homogeneous open system	2	b	Mycteria ibis	Diomedea irrorata	Eremophila alpestris	Canis lupus baileyi		Virtual
+602	Quality-focused value-added challenge	4	d	Oreotragus oreotragus	Macropus eugenii	Stercorarius longicausus	Acinynox jubatus		real-time
+603	Networked discrete neural-net	7	b	Ceryle rudis	Castor fiber	Cacatua tenuirostris	Lorythaixoides concolor		Open-architected
+604	Synergized user-facing middleware	2	b	Marmota caligata	Phalacrocorax carbo	Eolophus roseicapillus	Francolinus coqui		standardization
+605	Balanced tertiary system engine	1	d	Castor fiber	Canis lupus	Bos frontalis	Otaria flavescens		policy
+606	Integrated didactic instruction set	6	b	Papio cynocephalus	Bettongia penicillata	Carduelis pinus	Hystrix cristata		content-based
+607	Decentralized asymmetric Graphical User Interface	6	b	Pseudalopex gymnocercus	Chelodina longicollis	Haematopus ater	Podargus strigoides		zero administration
+608	Triple-buffered needs-based functionalities	5	a	Nesomimus trifasciatus	Lama guanicoe	Psophia viridis	Papio ursinus		systemic
+609	Intuitive composite utilisation	4	b	Streptopelia senegalensis	Ramphastos tucanus	Nasua nasua	Sylvilagus floridanus		reciprocal
+610	Mandatory bandwidth-monitored initiative	6	b	Columba livia	Trachyphonus vaillantii	Francolinus swainsonii	Rhea americana		Enterprise-wide
+611	Configurable tangible data-warehouse	1	a	Elephas maximus bengalensis	Columba palumbus	Varanus komodensis	Ramphastos tucanus		Intuitive
+612	Multi-tiered full-range installation	1	c	Trachyphonus vaillantii	Equus burchelli	Suricata suricatta	Ninox superciliaris		24-Jul
+613	Polarised user-facing capacity	8	c	Cebus apella	Mephitis mephitis	Ardea cinerea	Colobus guerza		Profound
+614	Re-contextualized optimizing knowledge base	2	a	Canis latrans	Gekko gecko	Cynictis penicillata	Otaria flavescens		national
+615	Polarised context-sensitive function	4	d	Nyctea scandiaca	Canis mesomelas	Plegadis falcinellus	Propithecus verreauxi		dedicated
+616	Open-source multi-state service-desk	7	a	Pelecanus occidentalis	Spheniscus mendiculus	Melursus ursinus	Macropus fuliginosus		tangible
+617	Innovative value-added array	9	d	Thamnolaea cinnmomeiventris	Uraeginthus granatina	Paraxerus cepapi	Equus burchelli		Upgradable
+618	Progressive neutral toolset	10	b	Corallus hortulanus cooki	Macaca mulatta	Mustela nigripes	Felis concolor		benchmark
+619	Diverse maximized knowledge base	5	c	Scolopax minor	Cervus elaphus	Crotaphytus collaris	Bos taurus		asynchronous
+620	Reactive even-keeled middleware	3	d	Connochaetus taurinus	Callipepla gambelii	Larus fuliginosus	Cervus elaphus		initiative
+621	Persevering multi-state implementation	7	b	Ciconia ciconia	Nycticorax nycticorax	Choriotis kori	Sarkidornis melanotos		secured line
+622	Organic real-time alliance	6	c	Felis caracal	Damaliscus dorcas	Pavo cristatus	Connochaetus taurinus		local
+623	Operative exuding interface	8	a	Crotalus cerastes	Columba palumbus	Trichoglossus chlorolepidotus	Diomedea irrorata		system engine
+624	Exclusive solution-oriented workforce	8	a	Melursus ursinus	Libellula quadrimaculata	Canis aureus	Papio cynocephalus		project
+625	User-friendly transitional throughput	7	a	Heloderma horridum	Felis yagouaroundi	Phalacrocorax niger	Oreamnos americanus		Organized
+626	Synchronised optimizing methodology	1	b	Anser caerulescens	Tiliqua scincoides	Paradoxurus hermaphroditus	Felis wiedi or Leopardus weidi		Enterprise-wide
+627	Total 3rd generation solution	4	c	Coracias caudata	Zosterops pallidus	Haematopus ater	Melursus ursinus		leading edge
+628	Organized dedicated internet solution	1	b	Fregata magnificans	Bubo sp.	Zosterops pallidus	Alcelaphus buselaphus caama		methodical
+629	Progressive interactive service-desk	3	d	Phascogale calura	Merops nubicus	Panthera pardus	unavailable		fault-tolerant
+630	Upgradable logistical Graphic Interface	10	a	Varanus komodensis	Vanellus armatus	Gyps bengalensis	Madoqua kirkii		maximized
+631	Vision-oriented dedicated array	8	c	Gabianus pacificus	Chlamydosaurus kingii	Lasiorhinus latifrons	Rangifer tarandus		Synergized
+632	Cross-group national Graphical User Interface	3	a	Podargus strigoides	Phalaropus lobatus	Pituophis melanaleucus	Bugeranus caruncalatus		Fully-configurable
+633	Balanced clear-thinking forecast	7	b	Tayassu pecari	Meles meles	Pavo cristatus	Uraeginthus granatina		24 hour
+634	Fundamental intermediate firmware	8	d	Grus rubicundus	Semnopithecus entellus	Phalacrocorax albiventer	Butorides striatus		Multi-layered
+635	Face to face multi-state complexity	10	d	Phalacrocorax niger	Lamprotornis chalybaeus	Libellula quadrimaculata	Otaria flavescens		Optional
+636	Reactive static concept	9	b	Buteo regalis	Aonyx capensis	Anser caerulescens	Procyon cancrivorus		responsive
+637	Operative fault-tolerant database	5	c	Lycosa godeffroyi	Canis mesomelas	Canis mesomelas	Theropithecus gelada		Inverse
+638	Innovative empowering benchmark	3	b	Semnopithecus entellus	Graspus graspus	Zosterops pallidus	Castor fiber		knowledge user
+639	Phased foreground implementation	5	a	Casmerodius albus	Macaca nemestrina	Macropus agilis	Panthera leo		zero defect
+640	Vision-oriented multi-tasking synergy	4	a	Anastomus oscitans	Grus canadensis	Ceryle rudis	Lepus townsendii		Diverse
+641	Object-based methodical installation	1	a	Milvago chimachima	Redunca redunca	Pelecans onocratalus	Anser anser		bifurcated
+642	Open-source transitional installation	6	b	Libellula quadrimaculata	Larus dominicanus	Alcelaphus buselaphus caama	Egretta thula		Front-line
+643	Cloned optimal benchmark	2	d	Mazama gouazoubira	Morelia spilotes variegata	Ovis orientalis	Terrapene carolina		Cross-group
+644	Public-key stable hub	10	a	Chelodina longicollis	Felis caracal	Callorhinus ursinus	Trichechus inunguis		initiative
+645	Ameliorated stable matrix	6	b	Ciconia episcopus	Charadrius tricollaris	Canis lupus lycaon	Geochelone elephantopus		time-frame
+646	Profit-focused dynamic adapter	4	a	Dasyurus maculatus	Macropus robustus	Rhea americana	Lama guanicoe		implementation
+647	Progressive tertiary hierarchy	7	b	Balearica pavonina	Gorilla gorilla	Dicrurus adsimilis	Acrantophis madagascariensis		Team-oriented
+648	Switchable secondary leverage	4	b	Pteronura brasiliensis	Anastomus oscitans	Mazama gouazoubira	Spizaetus coronatus		Grass-roots
+649	Networked bifurcated workforce	3	c	Paraxerus cepapi	Ammospermophilus nelsoni	Chlidonias leucopterus	Acrobates pygmaeus		data-warehouse
+650	Integrated 4th generation open architecture	5	b	Macropus eugenii	Macropus agilis	Hymenolaimus malacorhynchus	unavailable		conglomeration
+651	Stand-alone fresh-thinking service-desk	8	a	Tadorna tadorna	Neotoma sp.	Pycnonotus nigricans	Neophoca cinerea		Robust
+652	Organized discrete firmware	5	c	Ara macao	Canis latrans	Uraeginthus bengalus	Bubalus arnee		disintermediate
+653	Enterprise-wide analyzing knowledge user	10	c	Eira barbata	Phalacrocorax brasilianus	unavailable	Bubalus arnee		intermediate
+654	Inverse optimal knowledge base	8	b	Bassariscus astutus	Stercorarius longicausus	Kobus defassa	Madoqua kirkii		collaboration
+655	Cross-platform well-modulated policy	2	d	Petaurus breviceps	Sauromalus obesus	unavailable	Dasypus septemcincus		open system
+656	Realigned object-oriented capability	4	a	Damaliscus dorcas	unavailable	Spermophilus armatus	Stercorarius longicausus		Triple-buffered
+657	Object-based bandwidth-monitored projection	5	b	Bradypus tridactylus	Hydrochoerus hydrochaeris	Zenaida galapagoensis	Panthera pardus		archive
+658	Streamlined disintermediate workforce	7	c	Bison bison	Tauraco porphyrelophus	Spizaetus coronatus	Macropus robustus		service-desk
+659	Front-line mission-critical throughput	6	a	Mazama gouazoubira	Heloderma horridum	Terathopius ecaudatus	Phalacrocorax brasilianus		didactic
+660	Public-key eco-centric parallelism	8	b	Milvus migrans	Bassariscus astutus	Cygnus buccinator	Nyctanassa violacea		matrix
+661	Progressive intangible system engine	6	c	Odocoileus hemionus	Milvus migrans	Hymenolaimus malacorhynchus	Boselaphus tragocamelus		Pre-emptive
+662	Integrated asymmetric analyzer	7	b	Tamandua tetradactyla	Mycteria ibis	Paradoxurus hermaphroditus	Galictis vittata		standardization
+663	Grass-roots systemic project	5	a	Lepus arcticus	Merops nubicus	Ovis canadensis	Columba palumbus		Intuitive
+664	Compatible asymmetric migration	9	d	Pelecans onocratalus	Zalophus californicus	Caiman crocodilus	Martes pennanti		Sharable
+665	Advanced leading edge definition	5	b	Macropus giganteus	Sitta canadensis	Lycosa godeffroyi	Creagrus furcatus		Ameliorated
+666	Sharable fresh-thinking framework	4	b	Lamprotornis nitens	Lasiodora parahybana	Butorides striatus	Castor canadensis		conglomeration
+667	Streamlined 4th generation methodology	4	d	Limosa haemastica	Anastomus oscitans	Ovis ammon	Zosterops pallidus		hardware
+668	Right-sized background time-frame	9	b	Kobus defassa	Phylurus milli	Grus rubicundus	Ourebia ourebi		national
+669	Versatile value-added internet solution	3	d	Alouatta seniculus	Paradoxurus hermaphroditus	Dasypus novemcinctus	Upupa epops		budgetary management
+670	Seamless eco-centric implementation	5	c	Pycnonotus nigricans	Psophia viridis	Macropus robustus	Ctenophorus ornatus		Persistent
+671	Ergonomic neutral implementation	1	c	Trichosurus vulpecula	Bubalornis niger	Callipepla gambelii	Gazella thompsonii		Cross-group
+672	Re-contextualized incremental encryption	10	a	Cacatua tenuirostris	Colobus guerza	Pelecans onocratalus	Dendrocitta vagabunda		groupware
+673	Switchable 3rd generation policy	5	b	Macropus fuliginosus	Bucorvus leadbeateri	Phoenicopterus chilensis	Perameles nasuta		background
+674	Multi-layered impactful open architecture	10	a	Alopex lagopus	Morelia spilotes variegata	Panthera leo persica	Ratufa indica		customer loyalty
+675	Automated demand-driven productivity	9	a	Ara chloroptera	Cercatetus concinnus	Plegadis ridgwayi	Lophoaetus occipitalis		content-based
+676	Switchable high-level strategy	2	c	Sus scrofa	Acrantophis madagascariensis	Aepyceros mylampus	Buteo galapagoensis		projection
+677	Streamlined object-oriented analyzer	3	c	Iguana iguana	Corallus hortulanus cooki	Streptopelia senegalensis	Merops nubicus		data-warehouse
+678	Configurable maximized initiative	5	d	Procyon lotor	Philetairus socius	Orcinus orca	unavailable		24-Jul
+679	Progressive radical hardware	2	b	Vulpes chama	Cercatetus concinnus	Stercorarius longicausus	Callipepla gambelii		logistical
+680	Multi-channelled coherent forecast	7	a	Ephippiorhynchus mycteria	Francolinus coqui	Gyps bengalensis	Tragelaphus strepsiceros		matrices
+681	Assimilated system-worthy budgetary management	7	d	Castor fiber	Castor fiber	Lamprotornis nitens	Anas punctata		Progressive
+682	Upgradable multi-tasking middleware	7	b	Conolophus subcristatus	Hystrix indica	Camelus dromedarius	Cereopsis novaehollandiae		asynchronous
+683	Pre-emptive user-facing interface	3	a	Stercorarius longicausus	Plocepasser mahali	Bucorvus leadbeateri	Zosterops pallidus		responsive
+684	De-engineered background budgetary management	8	d	Chauna torquata	Felis silvestris lybica	Diomedea irrorata	Vanellus armatus		Distributed
+685	Devolved 24/7 capability	7	a	Meles meles	Dasyurus viverrinus	Parus atricapillus	Sylvicapra grimma		eco-centric
+686	Managed asymmetric frame	1	c	Anas punctata	Uraeginthus granatina	Aonyx cinerea	Limosa haemastica		Virtual
+687	Team-oriented asynchronous adapter	4	b	Bucorvus leadbeateri	Canis dingo	Redunca redunca	Upupa epops		disintermediate
+688	Intuitive multimedia protocol	4	b	Xerus sp.	Lepus townsendii	Plectopterus gambensis	Sarcorhamphus papa		Business-focused
+689	Future-proofed 24/7 definition	7	d	Mazama gouazoubira	Corvus albus	Milvus migrans	Cynictis penicillata		Customer-focused
+690	Vision-oriented bifurcated task-force	9	b	Tragelaphus strepsiceros	Macaca mulatta	Crocodylus niloticus	Zalophus californicus		flexibility
+691	Team-oriented uniform infrastructure	5	a	Phaethon aethereus	Vanellus chilensis	Thamnolaea cinnmomeiventris	Ephipplorhynchus senegalensis		dedicated
+692	Synergized encompassing matrix	2	a	Crotalus adamanteus	Panthera leo persica	Ovis ammon	Larus fuliginosus		contextually-based
+693	Versatile encompassing hardware	7	d	Anas punctata	Procyon lotor	Paradoxurus hermaphroditus	Oryx gazella		Future-proofed
+694	Open-architected reciprocal hardware	1	d	Pteropus rufus	Varanus albigularis	Ciconia ciconia	Canis latrans		Ameliorated
+695	Networked high-level website	10	a	Speotyte cuniculata	Philetairus socius	Dicrurus adsimilis	Scolopax minor		Implemented
+696	Optimized fresh-thinking info-mediaries	5	d	Conolophus subcristatus	Semnopithecus entellus	Crotalus triseriatus	Hymenolaimus malacorhynchus		Visionary
+697	Seamless background encryption	10	c	Tragelaphus strepsiceros	Tamandua tetradactyla	Ephipplorhynchus senegalensis	Ploceus rubiginosus		approach
+698	Centralized discrete strategy	9	c	Haliaetus vocifer	Laniaurius atrococcineus	Morelia spilotes variegata	Anas platyrhynchos		needs-based
+699	Configurable bi-directional complexity	1	b	Falco peregrinus	Panthera pardus	Colaptes campestroides	Anser caerulescens		product
+700	Reactive empowering ability	1	d	Perameles nasuta	Gymnorhina tibicen	Anas platyrhynchos	Nycticorax nycticorax		Intuitive
+701	Synergistic intangible infrastructure	10	d	Graspus graspus	Corvus brachyrhynchos	Eumetopias jubatus	Phalacrocorax carbo		Virtual
+702	Integrated high-level migration	5	a	Lorythaixoides concolor	Rangifer tarandus	Sciurus niger	Uraeginthus angolensis		algorithm
+703	Implemented disintermediate support	6	c	Chloephaga melanoptera	Gazella granti	Branta canadensis	Sylvicapra grimma		exuding
+704	Organized neutral project	5	d	Fratercula corniculata	Isoodon obesulus	Agkistrodon piscivorus	Crotalus cerastes		internet solution
+705	Front-line well-modulated hardware	8	b	Sarkidornis melanotos	Grus canadensis	Cacatua tenuirostris	Lamprotornis nitens		fresh-thinking
+706	Universal web-enabled firmware	9	a	Megaderma spasma	Recurvirostra avosetta	Nyctea scandiaca	Macropus robustus		Sharable
+707	Future-proofed contextually-based matrix	10	d	Ciconia ciconia	Speothos vanaticus	Isoodon obesulus	Falco peregrinus		task-force
+708	Digitized system-worthy info-mediaries	7	b	Crotaphytus collaris	Pitangus sulphuratus	Aquila chrysaetos	unavailable		Optional
+709	Versatile systemic product	2	b	Eumetopias jubatus	Naja haje	Choriotis kori	Felis silvestris lybica		hub
+710	Up-sized even-keeled circuit	5	c	Nasua narica	Parus atricapillus	Ramphastos tucanus	Eolophus roseicapillus		coherent
+711	Business-focused homogeneous interface	2	b	Phalacrocorax niger	Calyptorhynchus magnificus	Acrantophis madagascariensis	Crocodylus niloticus		Persevering
+712	Object-based motivating intranet	6	a	Tamiasciurus hudsonicus	Carphophis sp.	Hippotragus niger	Lamprotornis superbus		support
+713	Persevering zero tolerance solution	8	b	Tayassu pecari	Macropus eugenii	Cochlearius cochlearius	Taurotagus oryx		challenge
+714	Open-architected foreground Graphic Interface	10	a	Certotrichas paena	Climacteris melanura	Anas bahamensis	Haematopus ater		Diverse
+715	Stand-alone context-sensitive function	6	a	Centrocercus urophasianus	Dipodomys deserti	Epicrates cenchria maurus	Eolophus roseicapillus		logistical
+716	Mandatory attitude-oriented frame	8	c	Alligator mississippiensis	Geochelone elegans	Marmota flaviventris	unavailable		De-engineered
+717	Optional asymmetric interface	9	a	Anas platyrhynchos	Gymnorhina tibicen	Graspus graspus	Gyps bengalensis		migration
+718	Self-enabling mission-critical instruction set	4	a	Raphicerus campestris	Dipodomys deserti	Notechis semmiannulatus	Oxybelis fulgidus		explicit
+719	Cross-platform homogeneous access	8	d	Ovis ammon	Pseudocheirus peregrinus	Lepilemur rufescens	Theropithecus gelada		well-modulated
+720	Profound well-modulated orchestration	6	b	Nyctea scandiaca	Bubulcus ibis	Dasyurus viverrinus	Motacilla aguimp		Multi-channelled
+721	Configurable clear-thinking firmware	2	a	Phascogale tapoatafa	Anas punctata	Gazella granti	Sauromalus obesus		Assimilated
+722	Realigned bottom-line matrices	10	d	Mazama americana	Microcebus murinus	Phoenicopterus chilensis	Vicugna vicugna		utilisation
+723	Progressive dedicated forecast	3	c	Leptoptilos crumeniferus	Varanus albigularis	Tringa glareola	Bradypus tridactylus		Fundamental
+724	Expanded 24/7 info-mediaries	10	c	Corvus albicollis	Haliaetus vocifer	Streptopelia senegalensis	Buteo galapagoensis		Centralized
+725	Fully-configurable bifurcated knowledge user	3	c	Milvus migrans	Tursiops truncatus	Phalacrocorax albiventer	Boa constrictor mexicana		service-desk
+726	Seamless fresh-thinking infrastructure	9	d	Melursus ursinus	Gazella thompsonii	Pavo cristatus	Rhea americana		fault-tolerant
+727	Function-based bi-directional function	10	a	Sarkidornis melanotos	Aonyx cinerea	Melursus ursinus	Anser caerulescens		Innovative
+728	Reduced composite data-warehouse	3	d	Funambulus pennati	Dusicyon thous	Pteropus rufus	Anastomus oscitans		reciprocal
+729	Front-line asymmetric migration	6	c	Crocodylus niloticus	Cochlearius cochlearius	Tiliqua scincoides	Phascolarctos cinereus		matrices
+730	Adaptive coherent help-desk	4	a	Ammospermophilus nelsoni	Isoodon obesulus	Plocepasser mahali	Heloderma horridum		moderator
+731	Open-source directional paradigm	5	b	Buteo jamaicensis	Sula nebouxii	Speothos vanaticus	Isoodon obesulus		eco-centric
+732	Advanced client-server help-desk	2	d	Chauna torquata	Mazama americana	Macaca nemestrina	Pelecans onocratalus		service-desk
+733	Polarised logistical orchestration	8	a	Phalaropus fulicarius	Fratercula corniculata	Libellula quadrimaculata	Libellula quadrimaculata		24 hour
+734	Object-based exuding moratorium	10	d	Trichosurus vulpecula	Castor canadensis	Butorides striatus	Tamiasciurus hudsonicus		capability
+735	Compatible client-server system engine	5	c	Chauna torquata	Rhea americana	Ramphastos tucanus	Tenrec ecaudatus		matrix
+736	Quality-focused radical model	2	d	Mazama gouazoubira	Bubo virginianus	Leptoptilus dubius	Rhea americana		coherent
+737	Focused non-volatile initiative	2	b	Ephipplorhynchus senegalensis	Cervus elaphus	Oreamnos americanus	Dipodomys deserti		Implemented
+738	Cloned bottom-line moderator	4	a	Bassariscus astutus	Spilogale gracilis	Hystrix indica	Macropus parryi		Polarised
+739	Grass-roots context-sensitive internet solution	9	a	Bubulcus ibis	Pseudalopex gymnocercus	Papilio canadensis	Macaca mulatta		moderator
+740	Multi-tiered optimal moratorium	9	a	Varanus sp.	Eubalaena australis	Manouria emys	Aegypius tracheliotus		high-level
+741	Public-key radical knowledge user	7	b	Varanus sp.	Spizaetus coronatus	Crotalus cerastes	Alouatta seniculus		Open-source
+742	Ameliorated eco-centric circuit	8	a	Ceratotherium simum	Eurocephalus anguitimens	Isoodon obesulus	Macropus agilis		moratorium
+743	Stand-alone demand-driven service-desk	8	a	Carduelis uropygialis	Vombatus ursinus	Corythornis cristata	Naja nivea		Optional
+744	Public-key 3rd generation portal	2	b	Tamandua tetradactyla	Anthropoides paradisea	Ursus arctos	Pseudalopex gymnocercus		holistic
+745	Optimized methodical hub	5	c	Anas platyrhynchos	Vanellus chilensis	Vombatus ursinus	Cercopithecus aethiops		conglomeration
+746	Front-line 3rd generation portal	8	a	Mirounga angustirostris	Bubalornis niger	Varanus salvator	Anitibyx armatus		encoding
+747	Fully-configurable radical project	3	c	Canis lupus	Ictonyx striatus	Tamandua tetradactyla	Climacteris melanura		holistic
+748	Persevering logistical policy	5	b	Oxybelis fulgidus	Ursus americanus	Oryx gazella callotis	Macropus eugenii		process improvement
+749	Proactive mission-critical capacity	6	c	Cordylus giganteus	Axis axis	Sus scrofa	Dasyurus maculatus		open architecture
+750	Exclusive optimizing budgetary management	10	d	Hyaena hyaena	Carduelis uropygialis	Ratufa indica	Otaria flavescens		orchestration
+751	Customer-focused tertiary structure	3	c	Ninox superciliaris	Taurotagus oryx	Milvago chimachima	Sylvicapra grimma		archive
+752	Networked local task-force	9	c	Ovibos moschatus	Cebus albifrons	Eolophus roseicapillus	Odocoilenaus virginianus		Visionary
+753	Inverse analyzing hierarchy	9	c	Paroaria gularis	Ninox superciliaris	Hippotragus equinus	Heloderma horridum		Organic
+754	Adaptive upward-trending policy	8	c	Genetta genetta	unavailable	Tetracerus quadricornis	Sylvilagus floridanus		coherent
+755	Enhanced 4th generation artificial intelligence	9	d	Ateles paniscus	Bubalus arnee	Spheniscus magellanicus	Toxostoma curvirostre		Assimilated
+756	Fundamental full-range throughput	4	d	Genetta genetta	Smithopsis crassicaudata	Aegypius tracheliotus	Ara macao		frame
+757	Upgradable reciprocal strategy	4	d	Leptoptilus dubius	Sarcorhamphus papa	Snycerus caffer	Trichoglossus chlorolepidotus		Devolved
+758	Decentralized multimedia protocol	10	c	Ovibos moschatus	Bubo sp.	Sylvicapra grimma	Tamandua tetradactyla		standardization
+759	Extended cohesive pricing structure	9	a	Buteo galapagoensis	Ornithorhynchus anatinus	Panthera pardus	Mirounga leonina		transitional
+760	Business-focused holistic access	8	a	Cynictis penicillata	Bradypus tridactylus	Echimys chrysurus	Alopochen aegyptiacus		Mandatory
+761	Open-source national knowledge user	5	d	Buteo galapagoensis	Ursus americanus	Casmerodius albus	Ceratotherium simum		support
+762	Business-focused multi-state function	8	b	Genetta genetta	Corvus albus	Struthio camelus	Ovis canadensis		Assimilated
+763	Profit-focused directional ability	1	d	Chordeiles minor	Cyrtodactylus louisiadensis	Erinaceus frontalis	Agkistrodon piscivorus		Visionary
+764	Automated scalable artificial intelligence	3	b	Gabianus pacificus	Corvus albus	unavailable	Tragelaphus strepsiceros		Re-engineered
+765	Upgradable object-oriented open architecture	9	d	Mephitis mephitis	Pteronura brasiliensis	Aonyx capensis	Centrocercus urophasianus		tangible
+766	Optional multi-tasking project	4	a	Bubalus arnee	Corvus albicollis	Lophoaetus occipitalis	Coluber constrictor		neural-net
+767	Versatile systemic software	6	b	Aonyx capensis	Uraeginthus granatina	Sterna paradisaea	Coluber constrictor		knowledge base
+768	Ergonomic 24/7 hub	2	c	Globicephala melas	Francolinus swainsonii	Sciurus vulgaris	Cebus albifrons		implementation
+769	Horizontal didactic model	5	c	Macropus eugenii	Eolophus roseicapillus	Otaria flavescens	Alopex lagopus		Configurable
+770	Automated secondary website	8	b	Uraeginthus bengalus	Catharacta skua	Chlamydosaurus kingii	Psophia viridis		Profound
+771	Switchable zero defect methodology	2	b	Phascogale calura	Microcebus murinus	Bradypus tridactylus	Cygnus buccinator		Monitored
+772	Configurable web-enabled application	10	a	Sarkidornis melanotos	Drymarchon corias couperi	Passer domesticus	Alopex lagopus		contingency
+773	Focused human-resource framework	8	a	Phasianus colchicus	Gyps bengalensis	Castor fiber	Merops bullockoides		standardization
+774	Extended optimizing projection	7	c	Priodontes maximus	Grus rubicundus	Phalacrocorax varius	Pycnonotus nigricans		strategy
+775	Versatile responsive implementation	10	d	Colobus guerza	Fregata magnificans	Trichoglossus chlorolepidotus	Anthropoides paradisea		Total
+776	User-friendly didactic implementation	8	b	Vanellus chilensis	Macropus robustus	Canis mesomelas	Macaca nemestrina		Decentralized
+777	Re-contextualized real-time local area network	3	d	Uraeginthus angolensis	Merops sp.	Sciurus vulgaris	Physignathus cocincinus		Re-engineered
+778	Synergistic optimizing knowledge user	10	b	Procyon cancrivorus	Varanus sp.	Eutamias minimus	Deroptyus accipitrinus		interactive
+779	Devolved explicit benchmark	4	a	Heloderma horridum	Ammospermophilus nelsoni	Canis lupus baileyi	unavailable		data-warehouse
+780	Ergonomic context-sensitive support	8	a	Varanus sp.	Bubalus arnee	Epicrates cenchria maurus	Merops nubicus		Focused
+781	Persistent interactive secured line	5	c	Spizaetus coronatus	Phoca vitulina	Naja sp.	Nesomimus trifasciatus		multi-state
+782	Streamlined web-enabled extranet	5	b	Haliaeetus leucocephalus	Nyctereutes procyonoides	Larus fuliginosus	Crotaphytus collaris		tangible
+783	Team-oriented systematic matrix	9	b	Milvus migrans	Centrocercus urophasianus	Castor canadensis	Procyon lotor		Cross-platform
+784	Cross-platform interactive installation	6	b	Chauna torquata	Connochaetus taurinus	Acridotheres tristis	Phascogale calura		product
+785	Up-sized optimizing matrices	5	a	Phalaropus fulicarius	Hystrix cristata	Geococcyx californianus	Tiliqua scincoides		composite
+786	Implemented dedicated contingency	10	c	Aegypius tracheliotus	Plegadis falcinellus	Mazama gouazoubira	Dasyprocta leporina		composite
+787	Quality-focused composite collaboration	6	c	Panthera leo persica	Sula dactylatra	Varanus sp.	Genetta genetta		moderator
+788	Team-oriented human-resource database	5	a	Semnopithecus entellus	Oncorhynchus nerka	Bucephala clangula	Ara ararauna		reciprocal
+789	Compatible executive protocol	5	b	Lutra canadensis	Crotalus adamanteus	unavailable	Actophilornis africanus		fresh-thinking
+790	Persistent discrete customer loyalty	10	a	Corallus hortulanus cooki	Macropus rufogriseus	Rhea americana	Bos taurus		Triple-buffered
+791	Persistent asynchronous implementation	1	c	Felis wiedi or Leopardus weidi	Morelia spilotes variegata	Sterna paradisaea	Bubalus arnee		core
+792	Profound didactic focus group	8	b	Dicrostonyx groenlandicus	Ovis dalli stonei	Dromaeus novaehollandiae	Ammospermophilus nelsoni		zero administration
+793	Ergonomic high-level challenge	4	c	Hystrix cristata	Ornithorhynchus anatinus	Procyon lotor	Dendrocitta vagabunda		software
+794	Secured hybrid conglomeration	1	c	Nyctanassa violacea	Cordylus giganteus	Papio cynocephalus	Phalacrocorax brasilianus		structure
+795	Object-based incremental challenge	8	b	Dasyurus viverrinus	Cyrtodactylus louisiadensis	Mycteria leucocephala	Thalasseus maximus		collaboration
+796	Horizontal didactic budgetary management	3	a	Macropus rufogriseus	Callipepla gambelii	unavailable	Lasiorhinus latifrons		contingency
+797	Stand-alone encompassing orchestration	8	d	Tayassu tajacu	Vulpes chama	Cereopsis novaehollandiae	Deroptyus accipitrinus		impactful
+798	Horizontal attitude-oriented interface	1	c	Haliaetus vocifer	Macropus eugenii	Zalophus californicus	Oncorhynchus nerka		flexibility
+799	Reduced responsive middleware	10	b	Gazella thompsonii	Macaca nemestrina	Dicrostonyx groenlandicus	Laniarius ferrugineus		synergy
+800	Realigned context-sensitive internet solution	2	c	Mazama gouazoubira	Castor canadensis	Macropus rufogriseus	Tiliqua scincoides		forecast
+801	Fundamental interactive open system	10	d	Porphyrio porphyrio	Zenaida galapagoensis	Bucorvus leadbeateri	Sarkidornis melanotos		value-added
+802	Mandatory object-oriented project	1	a	Tachyglossus aculeatus	Chlidonias leucopterus	Epicrates cenchria maurus	Conolophus subcristatus		Integrated
+803	Ameliorated actuating secured line	8	a	Bubalornis niger	Helogale undulata	Cervus elaphus	Pavo cristatus		holistic
+804	Distributed responsive throughput	6	d	Macropus fuliginosus	Spheniscus magellanicus	Potorous tridactylus	Speotyte cuniculata		alliance
+805	Multi-channelled regional installation	3	c	Oryx gazella callotis	Perameles nasuta	Bettongia penicillata	Agkistrodon piscivorus		context-sensitive
+806	Face to face 24/7 migration	3	d	Petaurus norfolcensis	Pelecans onocratalus	Pelecanus conspicillatus	Oreotragus oreotragus		solution
+807	Profit-focused intermediate support	3	a	Paroaria gularis	Ramphastos tucanus	Spermophilus lateralis	Zosterops pallidus		Graphical User Interface
+808	Face to face background infrastructure	8	d	Macaca radiata	Psophia viridis	Dacelo novaeguineae	Graspus graspus		secured line
+809	Open-architected national intranet	4	c	Anathana ellioti	Agkistrodon piscivorus	Phoca vitulina	Acrobates pygmaeus		Digitized
+810	Distributed upward-trending product	4	b	Microcebus murinus	Axis axis	Vanellus chilensis	Actophilornis africanus		algorithm
+811	User-centric eco-centric adapter	8	b	Tragelaphus angasi	Varanus sp.	Buteo regalis	Alces alces		real-time
+812	Organic solution-oriented interface	8	d	Vulpes vulpes	Aegypius tracheliotus	Morelia spilotes variegata	Nasua narica		success
+813	Advanced discrete customer loyalty	6	c	Larus fuliginosus	Ninox superciliaris	Panthera leo persica	Spizaetus coronatus		hardware
+814	Public-key transitional ability	9	d	Amblyrhynchus cristatus	Trichoglossus haematodus moluccanus	Vanellus armatus	Camelus dromedarius		archive
+815	Adaptive web-enabled service-desk	10	b	Macropus fuliginosus	Lepilemur rufescens	Upupa epops	Buteo jamaicensis		Fundamental
+816	Advanced value-added access	8	c	Castor fiber	Ardea golieth	Priodontes maximus	Nyctanassa violacea		Open-architected
+817	Automated context-sensitive flexibility	3	a	Axis axis	Francolinus coqui	Climacteris melanura	Alces alces		high-level
+818	Distributed high-level complexity	9	b	Pseudoleistes virescens	Crotaphytus collaris	Macropus robustus	Hystrix cristata		Configurable
+819	Organized multimedia strategy	8	a	Centrocercus urophasianus	Manouria emys	Zosterops pallidus	Neophron percnopterus		asymmetric
+820	Enterprise-wide demand-driven portal	2	b	Cacatua tenuirostris	Phacochoerus aethiopus	Philetairus socius	Anathana ellioti		Assimilated
+821	Stand-alone intermediate core	10	b	Felis concolor	Phaethon aethereus	Ratufa indica	Pavo cristatus		Multi-layered
+822	Secured multi-state capacity	1	b	Delphinus delphis	Tetracerus quadricornis	Tursiops truncatus	Tiliqua scincoides		circuit
+823	Distributed client-server hierarchy	3	d	Ceryle rudis	Francolinus leucoscepus	Trichoglossus haematodus moluccanus	Macaca radiata		Integrated
+824	Cloned explicit local area network	5	d	Laniarius ferrugineus	Connochaetus taurinus	Smithopsis crassicaudata	Felis concolor		intermediate
+825	Fundamental high-level data-warehouse	5	d	Odocoileus hemionus	Cathartes aura	Mungos mungo	Lybius torquatus		bandwidth-monitored
+826	User-centric dedicated synergy	1	c	Leprocaulinus vipera	Buteo galapagoensis	Laniarius ferrugineus	Felis caracal		Cross-group
+827	Visionary static secured line	7	c	Macaca nemestrina	Rhabdomys pumilio	Streptopelia senegalensis	Spheniscus magellanicus		tangible
+828	Managed web-enabled artificial intelligence	2	c	Ursus americanus	Tockus flavirostris	Propithecus verreauxi	Coluber constrictor		moratorium
+829	Phased uniform artificial intelligence	4	d	Acanthaster planci	Tapirus terrestris	Gyps fulvus	Trichosurus vulpecula		capacity
+830	Multi-layered multi-tasking flexibility	8	d	Crax sp.	Phylurus milli	Coluber constrictor	Ammospermophilus nelsoni		migration
+831	Fundamental real-time protocol	9	b	Gymnorhina tibicen	Cereopsis novaehollandiae	Sylvicapra grimma	Phalaropus fulicarius		interface
+832	Progressive even-keeled initiative	5	c	Cynictis penicillata	Corvus albus	Prionace glauca	Macropus eugenii		uniform
+833	Optional web-enabled extranet	3	b	Tamiasciurus hudsonicus	Psophia viridis	Spheniscus mendiculus	Colobus guerza		Fundamental
+834	Proactive coherent encryption	1	d	Libellula quadrimaculata	Corythornis cristata	Larus dominicanus	Castor canadensis		matrices
+835	Synergistic attitude-oriented flexibility	8	a	Pteropus rufus	Uraeginthus angolensis	unavailable	Streptopelia senegalensis		complexity
+836	Down-sized coherent help-desk	10	d	Mazama gouazoubira	Ninox superciliaris	Papio cynocephalus	Chelodina longicollis		Devolved
+837	Intuitive user-facing attitude	7	a	Morelia spilotes variegata	Alces alces	Felis silvestris lybica	Mazama gouazoubira		Organized
+838	Universal 4th generation challenge	1	a	Corallus hortulanus cooki	Tiliqua scincoides	Haliaeetus leucoryphus	Melanerpes erythrocephalus		tangible
+839	Monitored multimedia moderator	3	b	Melanerpes erythrocephalus	Priodontes maximus	Eumetopias jubatus	Cacatua galerita		stable
+840	Robust real-time support	4	a	Smithopsis crassicaudata	Zonotrichia capensis	Falco mexicanus	Zalophus californicus		Sharable
+841	Robust zero administration installation	5	a	unavailable	Phalaropus fulicarius	Centrocercus urophasianus	Lamprotornis chalybaeus		reciprocal
+842	Streamlined contextually-based Graphical User Interface	9	c	Larus sp.	Canis aureus	Loris tardigratus	Ardea golieth		empowering
+843	Down-sized needs-based process improvement	4	a	Dasypus novemcinctus	Theropithecus gelada	Acrobates pygmaeus	Isoodon obesulus		orchestration
+844	Persistent client-server emulation	7	d	Tamandua tetradactyla	Connochaetus taurinus	Spermophilus tridecemlineatus	Tragelaphus strepsiceros		moderator
+845	Reduced non-volatile solution	10	c	Petaurus breviceps	Larus dominicanus	Ovis ammon	Naja sp.		productivity
+846	Progressive composite utilisation	6	d	Crotalus triseriatus	Cereopsis novaehollandiae	Trichosurus vulpecula	Felis silvestris lybica		intangible
+847	Right-sized holistic archive	2	c	Geochelone elegans	Tamandua tetradactyla	Spilogale gracilis	Rhabdomys pumilio		function
+848	Persistent cohesive utilisation	5	c	Chelodina longicollis	Threskionis aethiopicus	Buteo jamaicensis	Vulpes cinereoargenteus		website
+849	Versatile zero administration software	7	b	Dicrostonyx groenlandicus	Corvus brachyrhynchos	Ctenophorus ornatus	Axis axis		Networked
+850	Front-line upward-trending neural-net	4	c	Madoqua kirkii	Egretta thula	Acrobates pygmaeus	Macaca fuscata		logistical
+851	Mandatory cohesive archive	8	d	Ephippiorhynchus mycteria	Ardea cinerea	Haematopus ater	Ninox superciliaris		grid-enabled
+852	Multi-layered 4th generation budgetary management	3	a	Stenella coeruleoalba	Panthera leo	Alopex lagopus	Vulpes chama		access
+853	Organic full-range pricing structure	2	b	Zalophus californicus	Lepus arcticus	Ara ararauna	Taurotagus oryx		help-desk
+854	Reactive intangible core	6	c	Gymnorhina tibicen	Rana sp.	Columba livia	Pelecans onocratalus		mission-critical
+855	Organized next generation analyzer	1	c	Eolophus roseicapillus	Felis rufus	Dasyurus viverrinus	Columba palumbus		intranet
+856	Total intermediate ability	2	a	Panthera pardus	Canis lupus baileyi	Ovis ammon	Spheniscus mendiculus		Centralized
+857	Multi-lateral dynamic portal	8	b	Cordylus giganteus	Aonyx cinerea	Lamprotornis nitens	Felis concolor		Reverse-engineered
+858	Switchable tangible local area network	8	a	Corvus brachyrhynchos	Carduelis uropygialis	Dipodomys deserti	Phasianus colchicus		Enterprise-wide
+859	Visionary radical portal	6	c	Acridotheres tristis	Phalacrocorax varius	Phylurus milli	Himantopus himantopus		portal
+860	Enhanced real-time analyzer	1	b	Plegadis falcinellus	Mirounga angustirostris	Damaliscus lunatus	Myrmecophaga tridactyla		data-warehouse
+861	Phased global success	7	d	Dicrostonyx groenlandicus	Nyctea scandiaca	Bradypus tridactylus	Cathartes aura		homogeneous
+862	Pre-emptive 24/7 parallelism	6	d	Papio cynocephalus	Chlamydosaurus kingii	Cyrtodactylus louisiadensis	Macaca fuscata		challenge
+863	Multi-tiered optimal workforce	1	b	Cereopsis novaehollandiae	Odocoileus hemionus	Spermophilus armatus	Dasypus novemcinctus		Optional
+864	Future-proofed intangible strategy	3	b	Marmota caligata	Eolophus roseicapillus	Calyptorhynchus magnificus	Phoenicopterus ruber		24 hour
+865	Monitored heuristic framework	6	c	Naja haje	Climacteris melanura	Macaca mulatta	Alopochen aegyptiacus		reciprocal
+866	Multi-channelled maximized solution	3	b	Estrilda erythronotos	Panthera pardus	Trichoglossus haematodus moluccanus	Felis caracal		array
+867	Robust fault-tolerant groupware	7	c	Centrocercus urophasianus	Damaliscus dorcas	Tachyglossus aculeatus	unavailable		approach
+868	Proactive dynamic matrix	8	a	Geochelone elegans	Phalaropus fulicarius	Varanus sp.	Phoeniconaias minor		projection
+869	Reverse-engineered zero tolerance core	6	d	Panthera leo	Haliaeetus leucoryphus	Eolophus roseicapillus	Corythornis cristata		Right-sized
+870	Secured maximized application	4	a	Genetta genetta	Ratufa indica	Cyrtodactylus louisiadensis	Orcinus orca		Compatible
+871	Profit-focused analyzing project	2	b	Lycaon pictus	Coluber constrictor	Laniarius ferrugineus	Bucorvus leadbeateri		neural-net
+872	Triple-buffered demand-driven parallelism	5	c	Centrocercus urophasianus	Haliaeetus leucocephalus	Threskionis aethiopicus	Tachyglossus aculeatus		infrastructure
+873	Customer-focused even-keeled emulation	6	b	Aegypius tracheliotus	Anas punctata	Uraeginthus granatina	Zosterops pallidus		attitude-oriented
+874	Secured full-range info-mediaries	2	c	Grus rubicundus	Agouti paca	Pseudocheirus peregrinus	Centrocercus urophasianus		time-frame
+875	Devolved human-resource interface	6	d	Amblyrhynchus cristatus	Petaurus norfolcensis	Ceratotherium simum	Ovis ammon		extranet
+876	Integrated background architecture	4	c	Lybius torquatus	Cacatua tenuirostris	Erethizon dorsatum	Pseudocheirus peregrinus		neural-net
+877	Operative next generation pricing structure	8	c	Dendrocygna viduata	Ictonyx striatus	Pycnonotus nigricans	Larus dominicanus		Focused
+878	Re-contextualized asynchronous function	2	b	Ephippiorhynchus mycteria	Upupa epops	Anastomus oscitans	Cyrtodactylus louisiadensis		Public-key
+879	Public-key content-based firmware	6	c	Bos taurus	Phacochoerus aethiopus	Anathana ellioti	unavailable		grid-enabled
+880	Diverse zero defect migration	2	a	Papio cynocephalus	Vombatus ursinus	Trichosurus vulpecula	Galago crassicaudataus		logistical
+881	Managed discrete extranet	5	b	Bos taurus	Panthera leo	Pteropus rufus	Lemur catta		neutral
+882	Team-oriented homogeneous framework	10	d	Mellivora capensis	Catharacta skua	Lepus townsendii	Neophron percnopterus		Down-sized
+883	Open-architected didactic info-mediaries	2	b	Cervus unicolor	Corvus albicollis	Laniarius ferrugineus	Panthera pardus		migration
+884	Ameliorated non-volatile benchmark	4	d	Cordylus giganteus	Diceros bicornis	Tayassu tajacu	Tamiasciurus hudsonicus		leverage
+885	Business-focused dedicated secured line	2	d	Coendou prehensilis	Tachybaptus ruficollis	Mirounga angustirostris	Anastomus oscitans		multimedia
+886	Versatile motivating emulation	3	b	Leptoptilus dubius	Bassariscus astutus	Centrocercus urophasianus	Tamandua tetradactyla		Team-oriented
+887	Synergistic 4th generation capacity	5	a	Larus dominicanus	Heloderma horridum	Eutamias minimus	Megaderma spasma		algorithm
+888	Managed 24 hour local area network	8	c	Geospiza sp.	Graspus graspus	Loxodonta africana	Manouria emys		didactic
+889	Polarised intermediate framework	3	b	Terrapene carolina	Anas bahamensis	Tringa glareola	Butorides striatus		Exclusive
+890	Extended system-worthy framework	1	c	Conolophus subcristatus	Lorythaixoides concolor	Nannopterum harrisi	Hymenolaimus malacorhynchus		Switchable
+891	Organized empowering challenge	8	b	Eubalaena australis	Bassariscus astutus	Vulpes chama	Boa constrictor mexicana		Adaptive
+892	Team-oriented motivating secured line	9	c	Cacatua tenuirostris	Macropus agilis	Ephipplorhynchus senegalensis	Certotrichas paena		knowledge base
+893	Expanded didactic emulation	9	c	Lamprotornis nitens	Leprocaulinus vipera	Cracticus nigroagularis	Pedetes capensis		didactic
+894	Vision-oriented radical Graphic Interface	8	c	Tapirus terrestris	Haliaeetus leucoryphus	Columba livia	Anas punctata		Fully-configurable
+895	Compatible scalable toolset	9	d	Ovibos moschatus	Globicephala melas	Columba livia	Ciconia episcopus		system engine
+896	Business-focused hybrid throughput	6	c	unavailable	Hymenolaimus malacorhynchus	Dusicyon thous	Canis mesomelas		well-modulated
+897	Balanced reciprocal open system	9	c	Otaria flavescens	Epicrates cenchria maurus	Canis aureus	Panthera pardus		benchmark
+898	Profound holistic open architecture	4	d	Geochelone elephantopus	Castor fiber	Ciconia episcopus	Crotaphytus collaris		focus group
+899	Visionary mission-critical infrastructure	7	a	Spilogale gracilis	Antilope cervicapra	Delphinus delphis	Pelecans onocratalus		Reactive
+900	Upgradable context-sensitive conglomeration	8	a	Damaliscus lunatus	Ara ararauna	Speotyte cuniculata	Climacteris melanura		value-added
+901	Assimilated multi-state framework	9	d	Canis lupus baileyi	Myiarchus tuberculifer	Felis caracal	Oryx gazella		leading edge
+902	Seamless asymmetric monitoring	7	c	Dasypus novemcinctus	Oncorhynchus nerka	Uraeginthus angolensis	Graspus graspus		Customizable
+903	Object-based foreground budgetary management	5	c	unavailable	Meles meles	Plocepasser mahali	Sula dactylatra		attitude
+904	Devolved eco-centric service-desk	8	d	Crocuta crocuta	Stercorarius longicausus	Dusicyon thous	Equus burchelli		Synergized
+905	Switchable tangible approach	8	c	Otaria flavescens	Kobus defassa	Phalacrocorax carbo	Canis mesomelas		parallelism
+906	Fully-configurable modular access	8	c	Geochelone elephantopus	Melophus lathami	Trichoglossus haematodus moluccanus	Vanessa indica		system-worthy
+907	Adaptive 24/7 info-mediaries	5	c	Columba livia	Coluber constrictor	Cercopithecus aethiops	Petaurus norfolcensis		asynchronous
+908	User-centric needs-based process improvement	2	a	Lorythaixoides concolor	Ardea cinerea	Diceros bicornis	Cervus canadensis		artificial intelligence
+909	Down-sized optimizing superstructure	6	d	Uraeginthus granatina	unavailable	Ratufa indica	Macropus fuliginosus		static
+910	Robust solution-oriented extranet	2	c	Mazama gouazoubira	Acinynox jubatus	Oryx gazella callotis	Varanus albigularis		leading edge
+911	Profound bi-directional monitoring	10	a	Alopex lagopus	Cracticus nigroagularis	Agkistrodon piscivorus	Phascogale tapoatafa		solution-oriented
+912	Grass-roots asynchronous parallelism	10	a	Diomedea irrorata	Falco mexicanus	Pytilia melba	Tachyglossus aculeatus		Balanced
+913	Re-contextualized zero defect matrix	8	d	Coendou prehensilis	Ardea golieth	Oncorhynchus nerka	Amazona sp.		Stand-alone
+914	Optimized interactive pricing structure	7	b	Cordylus giganteus	Anathana ellioti	Vanessa indica	Macropus rufogriseus		scalable
+915	Face to face executive pricing structure	3	c	Varanus sp.	Ploceus rubiginosus	Delphinus delphis	Morelia spilotes variegata		zero defect
+916	Balanced multi-tasking open system	4	a	Gazella thompsonii	unavailable	Tragelaphus strepsiceros	Dusicyon thous		Operative
+917	Synergistic mission-critical initiative	4	c	Sus scrofa	Amphibolurus barbatus	Connochaetus taurinus	Bettongia penicillata		interface
+918	Re-engineered radical challenge	9	b	Dicrurus adsimilis	Sula dactylatra	Cochlearius cochlearius	Marmota monax		Persevering
+919	Optional eco-centric orchestration	6	d	Ursus americanus	Haliaeetus leucoryphus	Ephipplorhynchus senegalensis	Colaptes campestroides		Decentralized
+920	Reduced motivating solution	3	c	Hystrix cristata	Eudyptula minor	Tayassu pecari	Equus burchelli		data-warehouse
+921	Robust systemic instruction set	9	d	Cochlearius cochlearius	Rhea americana	Dasypus novemcinctus	Melanerpes erythrocephalus		structure
+922	Object-based system-worthy standardization	3	b	Felis yagouaroundi	Larus dominicanus	Connochaetus taurinus	Marmota caligata		high-level
+923	Front-line systematic encryption	7	d	Tetracerus quadricornis	Madoqua kirkii	Spheniscus magellanicus	Pteronura brasiliensis		Quality-focused
+924	Mandatory demand-driven flexibility	7	c	Pteronura brasiliensis	Papio ursinus	Tiliqua scincoides	Paradoxurus hermaphroditus		hybrid
+925	Triple-buffered real-time productivity	4	b	Cynomys ludovicianus	Anitibyx armatus	Equus burchelli	Bucephala clangula		maximized
+926	Inverse mission-critical matrix	9	a	Hippopotamus amphibius	Lophoaetus occipitalis	Macropus fuliginosus	Phacochoerus aethiopus		Object-based
+927	Balanced analyzing definition	10	d	Erinaceus frontalis	Macropus robustus	Spizaetus coronatus	Manouria emys		complexity
+928	Cloned cohesive focus group	4	a	Anthropoides paradisea	Bassariscus astutus	Columba livia	Nycticorax nycticorax		Optimized
+929	Optimized solution-oriented parallelism	4	d	Carduelis pinus	Chelodina longicollis	unavailable	Phaethon aethereus		impactful
+930	Advanced optimal encryption	6	d	Tragelaphus strepsiceros	Phalaropus fulicarius	Macropus robustus	Ara ararauna		encoding
+931	Face to face real-time projection	2	a	Thylogale stigmatica	Coendou prehensilis	Uraeginthus granatina	Mellivora capensis		background
+932	Cross-group scalable definition	10	d	Kobus defassa	Eolophus roseicapillus	Motacilla aguimp	Mephitis mephitis		context-sensitive
+933	Digitized 24/7 orchestration	6	a	Buteo jamaicensis	Felis chaus	Uraeginthus bengalus	Pseudoleistes virescens		Sharable
+934	Re-engineered encompassing monitoring	5	d	Cynomys ludovicianus	Petaurus breviceps	Pteronura brasiliensis	Capreolus capreolus		Distributed
+935	Cloned maximized open system	3	c	Aonyx cinerea	Zosterops pallidus	Genetta genetta	Myotis lucifugus		Balanced
+936	Quality-focused multi-tasking Graphic Interface	6	d	Picoides pubescens	Dasyurus maculatus	Anas bahamensis	Mephitis mephitis		Digitized
+937	Enhanced value-added core	1	d	Sarkidornis melanotos	Cervus canadensis	Ciconia ciconia	Mungos mungo		needs-based
+938	Expanded tangible utilisation	10	b	Propithecus verreauxi	Bos taurus	Hippotragus niger	Colobus guerza		Multi-tiered
+939	Multi-lateral explicit collaboration	3	b	Ursus arctos	Junonia genoveua	Dendrohyrax brucel	Myrmecophaga tridactyla		Universal
+940	Secured interactive alliance	7	c	Epicrates cenchria maurus	Bassariscus astutus	Chionis alba	Gorilla gorilla		array
+941	Fully-configurable disintermediate internet solution	4	c	Mephitis mephitis	Francolinus coqui	Phasianus colchicus	Cyrtodactylus louisiadensis		challenge
+942	Virtual clear-thinking projection	10	b	Spermophilus richardsonii	Macropus fuliginosus	Herpestes javanicus	Semnopithecus entellus		background
+943	Intuitive logistical monitoring	8	c	Spermophilus lateralis	Pteronura brasiliensis	Didelphis virginiana	Geochelone elephantopus		Profound
+944	Synergized stable capability	4	c	Isoodon obesulus	Thalasseus maximus	Alligator mississippiensis	unavailable		instruction set
+945	Devolved tertiary database	1	c	Nectarinia chalybea	Cercatetus concinnus	Actophilornis africanus	unavailable		architecture
+946	Extended systemic throughput	8	b	Procyon cancrivorus	Lamprotornis sp.	Otaria flavescens	Phalacrocorax albiventer		De-engineered
+947	Open-source disintermediate open system	6	c	Bucorvus leadbeateri	Ratufa indica	Grus canadensis	Vombatus ursinus		customer loyalty
+948	Balanced foreground time-frame	5	a	Recurvirostra avosetta	Crocuta crocuta	Neophoca cinerea	Eudromia elegans		background
+949	Reduced stable customer loyalty	8	a	Varanus albigularis	Larus novaehollandiae	Rhabdomys pumilio	Eubalaena australis		modular
+950	Enhanced grid-enabled Graphical User Interface	8	c	Chamaelo sp.	Chelodina longicollis	Vulpes chama	Merops nubicus		Stand-alone
+951	Virtual encompassing intranet	3	a	Dasyurus maculatus	Callorhinus ursinus	Dicrurus adsimilis	Acrantophis madagascariensis		logistical
+952	Customizable value-added emulation	4	a	Dolichitus patagonum	Agkistrodon piscivorus	Alligator mississippiensis	Odocoileus hemionus		object-oriented
+953	Switchable mission-critical system engine	1	d	Ephippiorhynchus mycteria	Spilogale gracilis	Iguana iguana	Tenrec ecaudatus		emulation
+954	Right-sized incremental open architecture	2	a	Canis aureus	Acrantophis madagascariensis	Odocoileus hemionus	Zalophus californicus		6th generation
+955	Secured holistic architecture	9	d	Galago crassicaudataus	Paraxerus cepapi	unavailable	Speothos vanaticus		utilisation
+956	Persistent directional paradigm	5	d	Morelia spilotes variegata	Nycticorax nycticorax	Anthropoides paradisea	Hystrix cristata		benchmark
+957	Focused content-based pricing structure	8	b	Capra ibex	Buteo jamaicensis	Speotyte cuniculata	Tachyglossus aculeatus		attitude-oriented
+958	Innovative disintermediate pricing structure	3	c	Anastomus oscitans	Butorides striatus	Catharacta skua	Ictonyx striatus		open architecture
+959	De-engineered disintermediate hierarchy	3	b	Buteo galapagoensis	Streptopelia senegalensis	Corythornis cristata	Eudromia elegans		superstructure
+960	Front-line web-enabled success	3	d	Spermophilus richardsonii	Dendrocygna viduata	Castor fiber	Nasua narica		hybrid
+961	Decentralized executive emulation	10	a	Bos taurus	Bos taurus	Bucephala clangula	Hyaena brunnea		Decentralized
+962	Reactive stable architecture	3	d	Oncorhynchus nerka	Castor fiber	Nesomimus trifasciatus	Ovibos moschatus		help-desk
+963	Phased 24 hour migration	8	b	Procyon lotor	Laniarius ferrugineus	Neotis denhami	Felis concolor		Streamlined
+964	Triple-buffered transitional approach	10	b	Anas punctata	Cervus duvauceli	Ursus maritimus	Eumetopias jubatus		methodology
+965	Robust systematic matrices	9	c	Vanessa indica	Certotrichas paena	Papio cynocephalus	Varanus sp.		user-facing
+966	Optional holistic benchmark	5	b	Antilope cervicapra	Ninox superciliaris	Chauna torquata	Mustela nigripes		Multi-channelled
+967	Monitored optimizing success	9	b	Spheniscus magellanicus	Papio cynocephalus	Chlamydosaurus kingii	Geochelone elegans		optimizing
+968	Pre-emptive logistical internet solution	9	b	Dendrocitta vagabunda	Genetta genetta	Sagittarius serpentarius	Dipodomys deserti		standardization
+969	Versatile impactful access	1	c	Gerbillus sp.	Haematopus ater	Larus novaehollandiae	Gopherus agassizii		Cross-platform
+970	Universal web-enabled capacity	5	a	Stercorarius longicausus	Coluber constrictor	Mephitis mephitis	Phalaropus lobatus		moderator
+971	Progressive cohesive budgetary management	5	c	Macaca fuscata	Phasianus colchicus	Rhea americana	Macropus agilis		Centralized
+972	Configurable static info-mediaries	6	b	Ara ararauna	Microcebus murinus	Ninox superciliaris	unavailable		analyzing
+973	Devolved 4th generation software	8	b	Melursus ursinus	Paroaria gularis	Colaptes campestroides	Graspus graspus		Versatile
+974	Realigned bottom-line projection	5	a	Lasiodora parahybana	Anathana ellioti	Theropithecus gelada	Cervus canadensis		strategy
+975	Total zero defect challenge	8	b	Bison bison	Bucephala clangula	Colaptes campestroides	Felis wiedi or Leopardus weidi		Persevering
+976	Optional asymmetric orchestration	2	b	Macropus agilis	Lemur fulvus	Callipepla gambelii	Gazella granti		implementation
+977	Polarised asymmetric intranet	8	c	Cochlearius cochlearius	Fratercula corniculata	unavailable	Anastomus oscitans		solution-oriented
+978	Decentralized analyzing superstructure	6	a	Macropus fuliginosus	Francolinus swainsonii	Sarcophilus harrisii	Mungos mungo		architecture
+979	Visionary regional instruction set	3	b	Gazella granti	Nannopterum harrisi	Canis aureus	Merops nubicus		attitude-oriented
+980	Synchronised non-volatile throughput	9	c	Caiman crocodilus	Alcelaphus buselaphus cokii	Elephas maximus bengalensis	Canis aureus		Synergized
+981	Balanced directional paradigm	5	b	Paroaria gularis	Echimys chrysurus	Elephas maximus bengalensis	Ovis ammon		Polarised
+982	Automated dedicated solution	9	c	Phalacrocorax albiventer	unavailable	Mazama gouazoubira	Cereopsis novaehollandiae		workforce
+983	Upgradable multi-tasking extranet	3	c	Geochelone elephantopus	Conolophus subcristatus	Ursus maritimus	Ictonyx striatus		reciprocal
+984	Realigned coherent process improvement	5	c	Pycnonotus nigricans	Oryx gazella	Taurotagus oryx	Colobus guerza		projection
+985	Seamless full-range adapter	10	b	Falco peregrinus	Graspus graspus	unavailable	Litrocranius walleri		static
+986	Managed stable algorithm	4	a	Zalophus californicus	Lamprotornis superbus	Corythornis cristata	Varanus sp.		4th generation
+987	Triple-buffered asynchronous initiative	10	b	Sula dactylatra	Felis serval	Bassariscus astutus	Meles meles		Graphical User Interface
+988	Versatile system-worthy structure	1	a	Trachyphonus vaillantii	Chelodina longicollis	Heloderma horridum	Lepilemur rufescens		Re-contextualized
+989	Optimized optimizing support	1	d	Zenaida asiatica	Diomedea irrorata	Tockus flavirostris	Spheniscus magellanicus		Team-oriented
+990	Sharable holistic moratorium	10	d	Canis lupus lycaon	Ara ararauna	Cordylus giganteus	Dolichitus patagonum		strategy
+991	Devolved 24 hour standardization	6	d	Kobus vardonii vardoni	Colobus guerza	Bison bison	Spermophilus parryii		internet solution
+992	Secured asynchronous concept	7	b	Geococcyx californianus	Libellula quadrimaculata	Macropus parryi	Ctenophorus ornatus		Customizable
+993	Reactive regional ability	3	a	Bucephala clangula	Lepilemur rufescens	Lycaon pictus	Dendrocygna viduata		capacity
+994	Balanced optimal customer loyalty	4	d	Phasianus colchicus	unavailable	Colobus guerza	Pseudalopex gymnocercus		Quality-focused
+995	Realigned bandwidth-monitored methodology	1	c	Pycnonotus nigricans	Lepilemur rufescens	Felis caracal	Camelus dromedarius		Triple-buffered
+996	Progressive transitional infrastructure	8	b	Cabassous sp.	Aquila chrysaetos	Macropus robustus	Bubo virginianus		hybrid
+997	Progressive even-keeled functionalities	1	d	Naja haje	Priodontes maximus	Connochaetus taurinus	Lepilemur rufescens		Extended
+998	Balanced global function	5	d	Canis mesomelas	unavailable	Paroaria gularis	Tamiasciurus hudsonicus		Front-line
+999	Organic bottom-line knowledge base	7	d	Ovis canadensis	Gyps bengalensis	Genetta genetta	Larus novaehollandiae		national
+1000	Organic fresh-thinking core	8	d	Chloephaga melanoptera	Fulica cristata	Helogale undulata	Uraeginthus bengalus		human-resource

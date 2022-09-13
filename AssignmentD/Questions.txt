@@ -1,0 +1,5 @@
+id	content	level	answer	choice_a	choice_b	choice_c	choice_d	formula	hint
+1	"The judge refused to _ the evidence to be presented in court, stating that it was not relevant to the case."	2	d	pardon	silence	restrict	allow		refused
+2	"James Young, a Scottish chemist, died a wealthy man, having amassed a great _ by successfully marketing paraffin lighting oil."	4	a	fortune	file	crowd	laboratory		wealthy
+3	Dina's salary is 3 times as much as Joseph's salary. The average of Dina's and Joseph's salaries is:	4	b	1.5 times as much as Joseph's salary	2 times as much as Joseph's salary	equal to .5 of Dina's salary	equal to .33 of Dina's salary	sum(x)/n	
+4	"The average of x, y and z is equal to the average of x and y. Which of the following is necessarily true?"	12	c	x is equal to y	z is equal to 0	z is equal to the average of x and y	None of the above	sum(x)/n	
